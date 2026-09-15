@@ -1,8 +1,59 @@
 [
   {
     "domain": "https://jcmobilecigars.com",
-    "date": "2026-09-15T11:55:40.016Z",
+    "date": "2026-09-15T13:07:08.666Z",
     "detectedTechnologies": []
+  },
+  {
+    "domain": "https://somalidisablesupport.com",
+    "date": "2026-09-15T13:07:09.751Z",
+    "detectedTechnologies": [
+      {
+        "technology": "Apache",
+        "category": "Web Server",
+        "proofs": [
+          "Header 'server' has value: Apache"
+        ]
+      },
+      {
+        "technology": "WordPress Resources",
+        "category": "CMS",
+        "proofs": [
+          "https://somalidisablesupport.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "https://somalidisablesupport.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+          "https://somalidisablesupport.com/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=3.9.1",
+          "https://somalidisablesupport.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.35.8",
+          "https://somalidisablesupport.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.35.8",
+          "https://somalidisablesupport.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3",
+          "https://somalidisablesupport.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.35.8",
+          "https://somalidisablesupport.com/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js?ver=0.2.1",
+          "https://somalidisablesupport.com/wp-content/plugins/wpforms-lite/assets/lib/jquery.validate.min.js?ver=1.21.0",
+          "https://somalidisablesupport.com/wp-content/plugins/wpforms-lite/assets/lib/mailcheck.min.js?ver=1.1.2",
+          "https://somalidisablesupport.com/wp-content/plugins/wpforms-lite/assets/lib/punycode.min.js?ver=1.0.0",
+          "https://somalidisablesupport.com/wp-content/plugins/wpforms-lite/assets/js/share/utils.min.js?ver=1.10.0.3",
+          "https://somalidisablesupport.com/wp-content/plugins/wpforms-lite/assets/js/frontend/wpforms.min.js?ver=1.10.0.3",
+          "https://somalidisablesupport.com/wp-content/plugins/wpforms-lite/assets/js/frontend/fields/address.min.js?ver=1.10.0.3"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "JavaScript Library",
+        "proofs": [
+          "https://somalidisablesupport.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "https://somalidisablesupport.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+          "https://somalidisablesupport.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3",
+          "https://somalidisablesupport.com/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js?ver=0.2.1",
+          "https://somalidisablesupport.com/wp-content/plugins/wpforms-lite/assets/lib/jquery.validate.min.js?ver=1.21.0"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "CMS",
+        "proofs": [
+          "WordPress 7.0.4"
+        ]
+      }
+    ]
   },
   {
     "domain": "https://yourfamilylines.com",
@@ -11,8 +62,37 @@
     "technologies": []
   },
   {
+    "domain": "https://szentkristofudvarhaz.hu",
+    "date": "2026-09-15T13:07:11.630Z",
+    "detectedTechnologies": [
+      {
+        "technology": "Apache",
+        "category": "Web Server",
+        "proofs": [
+          "Header 'server' has value: Apache"
+        ]
+      },
+      {
+        "technology": "WordPress Resources",
+        "category": "CMS",
+        "proofs": [
+          "https://szentkristofudvarhaz.hu/wp-content/themes/szentkristof1/jquery.js?ver=3.9.40",
+          "https://szentkristofudvarhaz.hu/wp-content/themes/szentkristof1/script.js?ver=3.9.40",
+          "https://szentkristofudvarhaz.hu/wp-content/themes/szentkristof1/script.responsive.js?ver=3.9.40"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "JavaScript Library",
+        "proofs": [
+          "https://szentkristofudvarhaz.hu/wp-content/themes/szentkristof1/jquery.js?ver=3.9.40"
+        ]
+      }
+    ]
+  },
+  {
     "domain": "https://disneystore.com",
-    "date": "2026-09-15T11:55:42.915Z",
+    "date": "2026-09-15T13:07:13.158Z",
     "detectedTechnologies": [
       {
         "technology": "Cloudflare",
@@ -24,8 +104,14 @@
     ]
   },
   {
+    "domain": "https://chavchavadze-m2-41-tbilisi.booked.net",
+    "status": "error",
+    "error": "Request failed with status code 404",
+    "technologies": []
+  },
+  {
     "domain": "https://trs-energycontrol.de",
-    "date": "2026-09-15T11:55:43.647Z",
+    "date": "2026-09-15T13:07:14.568Z",
     "detectedTechnologies": [
       {
         "technology": "Lodash",
@@ -44,10 +130,72 @@
     ]
   },
   {
+    "domain": "https://xn--kleoghvidevareservice-qfc.dk",
+    "date": "2026-09-15T13:07:15.019Z",
+    "detectedTechnologies": [
+      {
+        "technology": "Nginx",
+        "category": "Web Server",
+        "proofs": [
+          "Header 'server' has value: nginx/1.31.5"
+        ]
+      },
+      {
+        "technology": "WordPress Resources",
+        "category": "CMS",
+        "proofs": [
+          "https://xn--kleoghvidevareservice-qfc.dk/wp-includes/js/jquery/jquery.js",
+          "https://xn--kleoghvidevareservice-qfc.dk/wp-content/uploads/cache/fvm/1591870621/out/header-743134b7799e001e4dccbde326ad99ecd82f79b8.min.js",
+          "https://xn--kleoghvidevareservice-qfc.dk/wp-content/uploads/cache/fvm/1591870621/out/footer-657640ccc1bf137b9ae3386439a39375bbdb1396.min.js",
+          "https://xn--kleoghvidevareservice-qfc.dk/wp-content/plugins/elementor-pro/assets/js/frontend.min.js",
+          "https://xn--kleoghvidevareservice-qfc.dk/wp-content/uploads/cache/fvm/1591870621/out/footer-92f7c6ca45946279aef1a2262ed62e613ed5d2b9.min.js",
+          "https://xn--kleoghvidevareservice-qfc.dk/wp-content/plugins/elementor/assets/js/frontend.min.js"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "JavaScript Library",
+        "proofs": [
+          "https://xn--kleoghvidevareservice-qfc.dk/wp-includes/js/jquery/jquery.js"
+        ]
+      }
+    ]
+  },
+  {
     "domain": "https://gogroupauto.com",
     "status": "error",
     "error": "connect ECONNREFUSED 64.70.56.99:443",
     "technologies": []
+  },
+  {
+    "domain": "https://231selfstorage.com",
+    "date": "2026-09-15T13:07:18.605Z",
+    "detectedTechnologies": [
+      {
+        "technology": "Cloudflare",
+        "category": "CDN & Security",
+        "proofs": [
+          "Header 'server' has value: cloudflare"
+        ]
+      },
+      {
+        "technology": "Google Tag Manager",
+        "category": "Analytics & Tracking",
+        "proofs": [
+          "https://www.googletagmanager.com/gtag/js?id=G-E0YXT93YEH",
+          "https://www.googletagmanager.com/gtag/js?id=G-NW6XC3TPTY"
+        ]
+      },
+      {
+        "technology": "WordPress Resources",
+        "category": "CMS",
+        "proofs": [
+          "https://231selfstorage.com/wp-content/themes/kadence/assets/js/navigation.min.js?ver=1.1.49",
+          "https://231selfstorage.com/wp-content/plugins/kadence-blocks-pro/includes/assets/js/aos.min.js?ver=2.8.18",
+          "https://231selfstorage.com/wp-content/plugins/rocket-lazy-load/assets/js/16.1/lazyload.min.js"
+        ]
+      }
+    ]
   },
   {
     "domain": "https://globalrn.com",
@@ -56,14 +204,96 @@
     "technologies": []
   },
   {
+    "domain": "https://cytofastmed.com",
+    "date": "2026-09-15T13:07:23.873Z",
+    "detectedTechnologies": [
+      {
+        "technology": "WordPress Resources",
+        "category": "CMS",
+        "proofs": [
+          "https://www.cytofastmed.com/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Application/Frontend/Assets/dist/n2.min.js?ver=1c12b24c",
+          "https://www.cytofastmed.com/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Application/Frontend/Assets/dist/smartslider-frontend.min.js?ver=1c12b24c",
+          "https://www.cytofastmed.com/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Slider/SliderType/Simple/Assets/dist/ss-simple.min.js?ver=1c12b24c",
+          "https://www.cytofastmed.com/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Widget/Arrow/ArrowImage/Assets/dist/w-arrow-image.min.js?ver=1c12b24c",
+          "https://www.cytofastmed.com/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Widget/Bullet/Assets/dist/w-bullet.min.js?ver=1c12b24c",
+          "https://www.cytofastmed.com/wp-content/plugins/burst-statistics/helpers/timeme/timeme.min.js?ver=1.5.0.2",
+          "https://www.cytofastmed.com/wp-content/plugins/burst-statistics/assets/js/build/burst.min.js?ver=1.5.0.2",
+          "https://www.cytofastmed.com/wp-content/plugins/wp-statistics/assets/js/tracker.js?ver=357789956d5027e91df80f750f46c7d0",
+          "https://www.cytofastmed.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.0",
+          "https://www.cytofastmed.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+          "https://www.cytofastmed.com/wp-content/themes/Vela/js/modernizr.js",
+          "https://www.cytofastmed.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.8.1",
+          "https://www.cytofastmed.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.8.1",
+          "https://www.cytofastmed.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2",
+          "https://www.cytofastmed.com/wp-includes/js/jquery/ui/effect.min.js?ver=1.13.2",
+          "https://www.cytofastmed.com/wp-content/themes/Vela/js/plugins.min.js?ver=1.4.7",
+          "https://www.cytofastmed.com/wp-content/themes/Vela/js/page.min.js?ver=1.4.7",
+          "https://www.cytofastmed.com/wp-includes/js/comment-reply.min.js?ver=357789956d5027e91df80f750f46c7d0",
+          "https://www.cytofastmed.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.2.0",
+          "https://www.cytofastmed.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.13.2",
+          "https://www.cytofastmed.com/wp-content/plugins/js_composer/assets/lib/bower/jquery-ui-tabs-rotate/jquery-ui-tabs-rotate.min.js?ver=6.2.0",
+          "https://www.cytofastmed.com/wp-content/plugins/js_composer/assets/lib/bower/nivoslider/jquery.nivo.slider.pack.js?ver=6.2.0",
+          "https://www.cytofastmed.com/wp-includes/js/jquery/ui/accordion.min.js?ver=1.13.2",
+          "https://www.cytofastmed.com/wp-content/themes/Vela/js/ajax-page.min.js?ver=1.4.7",
+          "https://www.cytofastmed.com/wp-content/themes/Vela/js/bootstrap.min.js",
+          "https://www.cytofastmed.com/wp-content/themes/Vela/js/smoothscroll.min.js?ver=1.4.7",
+          "https://www.cytofastmed.com/wp-content/themes/Vela/js/ajax-search.min.js",
+          "https://www.cytofastmed.com/wp-content/themes/Vela/js/style-selector.min.js",
+          "https://www.cytofastmed.com/wp-content/plugins/creame-whatsapp-me/public/js/joinchat.min.js?ver=6.3.2"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "JavaScript Library",
+        "proofs": [
+          "https://www.cytofastmed.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.0",
+          "https://www.cytofastmed.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+          "https://www.cytofastmed.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2",
+          "https://www.cytofastmed.com/wp-includes/js/jquery/ui/effect.min.js?ver=1.13.2",
+          "https://www.cytofastmed.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.13.2",
+          "https://www.cytofastmed.com/wp-content/plugins/js_composer/assets/lib/bower/jquery-ui-tabs-rotate/jquery-ui-tabs-rotate.min.js?ver=6.2.0",
+          "https://www.cytofastmed.com/wp-content/plugins/js_composer/assets/lib/bower/nivoslider/jquery.nivo.slider.pack.js?ver=6.2.0",
+          "https://www.cytofastmed.com/wp-includes/js/jquery/ui/accordion.min.js?ver=1.13.2"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "CMS",
+        "proofs": [
+          "Powered by WPBakery Page Builder - drag and drop page builder for WordPress."
+        ]
+      },
+      {
+        "technology": "FontAwesome",
+        "category": "Icon Font",
+        "proofs": [
+          "https://www.cytofastmed.com/wp-content/themes/Vela/css/font-awesome.min.css?ver=4.3.0"
+        ]
+      },
+      {
+        "technology": "Bootstrap",
+        "category": "UI Framework",
+        "proofs": [
+          "https://www.cytofastmed.com/wp-content/themes/Vela/css/bootstrap.min.css"
+        ]
+      }
+    ]
+  },
+  {
     "domain": "https://5starremoval.weebly.com",
     "status": "error",
     "error": "Request failed with status code 404",
     "technologies": []
   },
   {
+    "domain": "https://coenzwezerijnen.nu",
+    "status": "error",
+    "error": "timeout of 8000ms exceeded",
+    "technologies": []
+  },
+  {
     "domain": "https://gutendorf.ru",
-    "date": "2026-09-15T11:55:49.372Z",
+    "date": "2026-09-15T13:07:33.630Z",
     "detectedTechnologies": [
       {
         "technology": "Nginx",
@@ -118,14 +348,108 @@
     ]
   },
   {
+    "domain": "https://katesworldtravel.com",
+    "date": "2026-09-15T13:07:35.265Z",
+    "detectedTechnologies": [
+      {
+        "technology": "Nginx",
+        "category": "Web Server",
+        "proofs": [
+          "Header 'server' has value: nginx/1.29.8"
+        ]
+      },
+      {
+        "technology": "WordPress Resources",
+        "category": "CMS",
+        "proofs": [
+          "https://katesworldtravel.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "https://katesworldtravel.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+          "https://katesworldtravel.com/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=4.13.11",
+          "https://katesworldtravel.com/wp-content/plugins/mystickymenu/dist/js/morphext.js?ver=2.9.1",
+          "https://katesworldtravel.com/wp-content/plugins/mystickymenu/dist/js/welcomebar-front.js?ver=2.9.1",
+          "https://katesworldtravel.com/wp-content/plugins/bluehost-wordpress-plugin/vendor/newfold-labs/wp-module-performance/build/assets/link-prefetch.min.js?ver=4.19.1",
+          "https://katesworldtravel.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.2.4",
+          "https://katesworldtravel.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.2.4",
+          "https://katesworldtravel.com/wp-includes/js/jquery/ui/core.min.js?ver=1.14.2",
+          "https://katesworldtravel.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.2.4",
+          "https://katesworldtravel.com/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5",
+          "https://katesworldtravel.com/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-events-provider-content-events-bb83c1a0aedefa5d25d1.js",
+          "https://katesworldtravel.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=4.2.3",
+          "https://katesworldtravel.com/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255",
+          "https://katesworldtravel.com/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216",
+          "https://katesworldtravel.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=4.2.3",
+          "https://katesworldtravel.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=4.2.3"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "JavaScript Library",
+        "proofs": [
+          "https://katesworldtravel.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "https://katesworldtravel.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+          "https://katesworldtravel.com/wp-includes/js/jquery/ui/core.min.js?ver=1.14.2"
+        ]
+      },
+      {
+        "technology": "Google Tag Manager",
+        "category": "Analytics & Tracking",
+        "proofs": [
+          "https://www.googletagmanager.com/gtag/js?id=GT-5TGHL88B"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "CMS",
+        "proofs": [
+          "WordPress 7.1"
+        ]
+      },
+      {
+        "technology": "FontAwesome",
+        "category": "Icon Font",
+        "proofs": [
+          "https://katesworldtravel.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3",
+          "https://katesworldtravel.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3"
+        ]
+      }
+    ]
+  },
+  {
     "domain": "https://3xd.co.uk",
     "status": "error",
     "error": "Request failed with status code 403",
     "technologies": []
   },
   {
+    "domain": "https://gapconstructionwi.com",
+    "date": "2026-09-15T13:07:36.169Z",
+    "detectedTechnologies": [
+      {
+        "technology": "Cloudflare",
+        "category": "CDN & Security",
+        "proofs": [
+          "Header 'server' has value: cloudflare"
+        ]
+      },
+      {
+        "technology": "Lodash",
+        "category": "JavaScript Library",
+        "proofs": [
+          "https://static.parastorage.com/unpkg/lodash@4.17.23/lodash.min.js"
+        ]
+      },
+      {
+        "technology": "Wix",
+        "category": "Website Builder",
+        "proofs": [
+          "Wix.com Website Builder"
+        ]
+      }
+    ]
+  },
+  {
     "domain": "https://imgs.co.jp",
-    "date": "2026-09-15T11:55:53.637Z",
+    "date": "2026-09-15T13:07:39.843Z",
     "detectedTechnologies": [
       {
         "technology": "Apache",
@@ -152,8 +476,63 @@
     ]
   },
   {
+    "domain": "https://clotting-guide.online",
+    "date": "2026-09-15T13:07:42.076Z",
+    "detectedTechnologies": [
+      {
+        "technology": "Apache",
+        "category": "Web Server",
+        "proofs": [
+          "Header 'server' has value: Apache"
+        ]
+      },
+      {
+        "technology": "WordPress Resources",
+        "category": "CMS",
+        "proofs": [
+          "https://c0.wp.com/c/7.1/wp-includes/js/jquery/jquery.min.js",
+          "https://c0.wp.com/c/7.1/wp-includes/js/jquery/jquery-migrate.min.js",
+          "https://www.clotting-guide.online/wp-content/plugins/wpfront-notification-bar/jquery-plugins/js-cookie.min.js?ver=2.2.1",
+          "https://www.clotting-guide.online/wp-content/plugins/wpfront-notification-bar/js/wpfront-notification-bar.min.js?ver=3.5.1.05102",
+          "https://www.clotting-guide.online/wp-content/themes/vogue/js/jquery.carouFredSel-6.2.1-packed.js?ver=10.9.3",
+          "https://www.clotting-guide.online/wp-content/themes/vogue/js/custom.js?ver=10.9.3",
+          "https://c0.wp.com/c/7.1/wp-includes/js/dist/vendor/react.min.js",
+          "https://c0.wp.com/c/7.1/wp-includes/js/dist/vendor/react-dom.min.js",
+          "https://c0.wp.com/c/7.1/wp-includes/js/dist/hooks.min.js",
+          "https://c0.wp.com/c/7.1/wp-includes/js/dist/i18n.min.js",
+          "https://www.clotting-guide.online/wp-content/plugins/button-block/build/view.js?ver=187d296097e6625c5952"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "JavaScript Library",
+        "proofs": [
+          "https://c0.wp.com/c/7.1/wp-includes/js/jquery/jquery.min.js",
+          "https://c0.wp.com/c/7.1/wp-includes/js/jquery/jquery-migrate.min.js",
+          "https://www.clotting-guide.online/wp-content/plugins/wpfront-notification-bar/jquery-plugins/js-cookie.min.js?ver=2.2.1",
+          "https://www.clotting-guide.online/wp-content/themes/vogue/js/jquery.carouFredSel-6.2.1-packed.js?ver=10.9.3"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "CMS",
+        "proofs": [
+          "WordPress 7.1"
+        ]
+      },
+      {
+        "technology": "FontAwesome",
+        "category": "Icon Font",
+        "proofs": [
+          "https://www.clotting-guide.online/wp-content/themes/vogue/includes/font-awesome/css/all.min.css?ver=6.5.1",
+          "https://www.clotting-guide.online/wp-content/plugins/button-block/public/css/font-awesome.min.css?ver=7.1.0"
+        ]
+      }
+    ]
+  },
+  {
     "domain": "https://38inspect.com",
-    "date": "2026-09-15T11:55:55.210Z",
+    "date": "2026-09-15T13:07:42.982Z",
     "detectedTechnologies": [
       {
         "technology": "Cloudflare",
@@ -203,10 +582,91 @@
     ]
   },
   {
+    "domain": "https://newbeaverborough.org",
+    "date": "2026-09-15T13:07:43.915Z",
+    "detectedTechnologies": [
+      {
+        "technology": "Nginx",
+        "category": "Web Server",
+        "proofs": [
+          "Header 'server' has value: nginx"
+        ]
+      },
+      {
+        "technology": "WordPress Resources",
+        "category": "CMS",
+        "proofs": [
+          "https://newbeaverborough.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "https://newbeaverborough.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+          "https://newbeaverborough.org/wp-content/plugins/cryptx/js/cryptx.min.js?ver=4.2.1",
+          "https://newbeaverborough.org/wp-content/plugins/functional-gov-wp/assets/js/notice.js?ver=1.9.2",
+          "https://newbeaverborough.org/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=4.2.4",
+          "https://newbeaverborough.org/wp-includes/js/jquery/ui/core.min.js?ver=1.14.2",
+          "https://newbeaverborough.org/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.14.2",
+          "https://newbeaverborough.org/wp-content/plugins/modern-events-calendar-lite/assets/js/jquery.typewatch.js?ver=7.35.1",
+          "https://newbeaverborough.org/wp-content/plugins/modern-events-calendar-lite/assets/packages/featherlight/featherlight.js?ver=7.35.1",
+          "https://newbeaverborough.org/wp-content/plugins/modern-events-calendar-lite/assets/packages/select2/select2.full.min.js?ver=7.35.1",
+          "https://newbeaverborough.org/wp-content/plugins/modern-events-calendar-lite/assets/js/mec-general-calendar.js?ver=7.35.1",
+          "https://newbeaverborough.org/wp-content/plugins/modern-events-calendar-lite/assets/packages/tooltip/tooltip.js?ver=7.35.1",
+          "https://newbeaverborough.org/wp-content/plugins/modern-events-calendar-lite/assets/js/frontend.js?ver=7.35.1",
+          "https://newbeaverborough.org/wp-content/plugins/modern-events-calendar-lite/assets/js/events.js?ver=7.35.1",
+          "https://newbeaverborough.org/wp-content/plugins/modern-events-calendar-lite/assets/packages/lity/lity.min.js?ver=7.35.1",
+          "https://newbeaverborough.org/wp-content/plugins/modern-events-calendar-lite/assets/packages/colorbrightness/colorbrightness.min.js?ver=7.35.1",
+          "https://newbeaverborough.org/wp-content/plugins/modern-events-calendar-lite/assets/packages/owl-carousel/owl.carousel.min.js?ver=7.35.1",
+          "https://newbeaverborough.org/wp-content/plugins/cv-monitor/public/js/external-links.min.js?ver=4.0.6",
+          "https://newbeaverborough.org/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.2.4",
+          "https://newbeaverborough.org/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.2.4",
+          "https://newbeaverborough.org/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.2.4",
+          "https://newbeaverborough.org/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1",
+          "https://newbeaverborough.org/wp-includes/js/imagesloaded.min.js?ver=5.0.0",
+          "https://newbeaverborough.org/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=4.2.2",
+          "https://newbeaverborough.org/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255",
+          "https://newbeaverborough.org/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216",
+          "https://newbeaverborough.org/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=4.2.2",
+          "https://newbeaverborough.org/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=4.2.2"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "JavaScript Library",
+        "proofs": [
+          "https://newbeaverborough.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "https://newbeaverborough.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+          "https://newbeaverborough.org/wp-includes/js/jquery/ui/core.min.js?ver=1.14.2",
+          "https://newbeaverborough.org/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.14.2",
+          "https://newbeaverborough.org/wp-content/plugins/modern-events-calendar-lite/assets/js/jquery.typewatch.js?ver=7.35.1",
+          "https://newbeaverborough.org/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1"
+        ]
+      },
+      {
+        "technology": "FontAwesome",
+        "category": "Icon Font",
+        "proofs": [
+          "https://newbeaverborough.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3",
+          "https://newbeaverborough.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3",
+          "https://newbeaverborough.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=4.2.4",
+          "https://newbeaverborough.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=4.2.4"
+        ]
+      }
+    ]
+  },
+  {
     "domain": "https://largsbaychiropractic.com.au",
-    "status": "error",
-    "error": "timeout of 8000ms exceeded",
-    "technologies": []
+    "date": "2026-09-15T13:07:49.844Z",
+    "detectedTechnologies": []
+  },
+  {
+    "domain": "https://rsthealthcare.com",
+    "date": "2026-09-15T13:07:50.549Z",
+    "detectedTechnologies": [
+      {
+        "technology": "PHP",
+        "category": "Programming Language",
+        "proofs": [
+          "Header 'x-powered-by' has value: PHP/7.4.33"
+        ]
+      }
+    ]
   },
   {
     "domain": "https://dioxoxigenio.com.br",
@@ -215,8 +675,80 @@
     "technologies": []
   },
   {
+    "domain": "https://doringpoort.com",
+    "date": "2026-09-15T13:07:53.994Z",
+    "detectedTechnologies": [
+      {
+        "technology": "Apache",
+        "category": "Web Server",
+        "proofs": [
+          "Header 'server' has value: Apache"
+        ]
+      },
+      {
+        "technology": "WordPress Resources",
+        "category": "CMS",
+        "proofs": [
+          "https://doringpoort.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "https://doringpoort.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+          "https://doringpoort.com/wp-content/plugins/wp-tripadvisor-review-slider/public/js/wprs-unslider-min.js?ver=9.5",
+          "https://doringpoort.com/wp-content/plugins/wp-tripadvisor-review-slider/public/js/wprev-public.js?ver=9.5",
+          "https://doringpoort.com/wp-content/plugins/click-to-chat-for-whatsapp/new/inc/assets/js/app.js?ver=4.17",
+          "https://doringpoort.com/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=1.0.0",
+          "https://doringpoort.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1",
+          "https://doringpoort.com/wp-includes/js/imagesloaded.min.js?ver=5.0.0",
+          "https://doringpoort.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.6.2",
+          "https://doringpoort.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.5.5",
+          "https://doringpoort.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.5.5",
+          "https://doringpoort.com/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255",
+          "https://doringpoort.com/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216",
+          "https://doringpoort.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.6.2",
+          "https://doringpoort.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2",
+          "https://doringpoort.com/wp-includes/js/jquery/ui/core.min.js?ver=1.14.2",
+          "https://doringpoort.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.5.5",
+          "https://doringpoort.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.6.2",
+          "https://doringpoort.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.6.2"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "JavaScript Library",
+        "proofs": [
+          "https://doringpoort.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "https://doringpoort.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+          "https://doringpoort.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1",
+          "https://doringpoort.com/wp-includes/js/jquery/ui/core.min.js?ver=1.14.2",
+          "https://doringpoort.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.6.2"
+        ]
+      },
+      {
+        "technology": "Google Tag Manager",
+        "category": "Analytics & Tracking",
+        "proofs": [
+          "https://www.googletagmanager.com/gtag/js?id=G-85WL1D39L8"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "CMS",
+        "proofs": [
+          "WordPress 7.1"
+        ]
+      },
+      {
+        "technology": "FontAwesome",
+        "category": "Icon Font",
+        "proofs": [
+          "https://doringpoort.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3",
+          "https://doringpoort.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3",
+          "https://doringpoort.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3"
+        ]
+      }
+    ]
+  },
+  {
     "domain": "https://fsbwyoming.com",
-    "date": "2026-09-15T11:56:05.772Z",
+    "date": "2026-09-15T13:07:54.509Z",
     "detectedTechnologies": [
       {
         "technology": "Cloudflare",
@@ -305,8 +837,65 @@
     ]
   },
   {
+    "domain": "https://msc-manching.de",
+    "date": "2026-09-15T13:07:54.850Z",
+    "detectedTechnologies": [
+      {
+        "technology": "Apache",
+        "category": "Web Server",
+        "proofs": [
+          "Header 'server' has value: Apache"
+        ]
+      },
+      {
+        "technology": "WordPress Resources",
+        "category": "CMS",
+        "proofs": [
+          "https://msc-manching.de/wp-includes/js/jquery/jquery.min.js?ver=3.6.4",
+          "https://msc-manching.de/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0",
+          "https://msc-manching.de/wp-content/themes/sparkling/assets/js/vendor/bootstrap.min.js?ver=6.2.11",
+          "https://msc-manching.de/wp-content/themes/sparkling/assets/js/functions.js?ver=20180503",
+          "https://msc-manching.de/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.7.3",
+          "https://msc-manching.de/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.7.3",
+          "https://msc-manching.de/wp-content/themes/sparkling/assets/js/vendor/flexslider.min.js?ver=20140222",
+          "https://msc-manching.de/wp-content/themes/sparkling/assets/js/flexslider-custom.js?ver=20140716",
+          "https://msc-manching.de/wp-content/themes/sparkling/assets/js/skip-link-focus-fix.min.js?ver=20140222"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "JavaScript Library",
+        "proofs": [
+          "https://msc-manching.de/wp-includes/js/jquery/jquery.min.js?ver=3.6.4",
+          "https://msc-manching.de/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "CMS",
+        "proofs": [
+          "WordPress 6.2.11"
+        ]
+      },
+      {
+        "technology": "Bootstrap",
+        "category": "UI Framework",
+        "proofs": [
+          "https://msc-manching.de/wp-content/themes/sparkling/assets/css/bootstrap.min.css?ver=6.2.11"
+        ]
+      },
+      {
+        "technology": "FontAwesome",
+        "category": "Icon Font",
+        "proofs": [
+          "https://msc-manching.de/wp-content/themes/sparkling/assets/css/fontawesome-all.min.css?ver=5.1.1."
+        ]
+      }
+    ]
+  },
+  {
     "domain": "https://sgsextremaratio.it",
-    "date": "2026-09-15T11:56:06.614Z",
+    "date": "2026-09-15T13:07:55.341Z",
     "detectedTechnologies": [
       {
         "technology": "Nginx",
@@ -325,13 +914,60 @@
     ]
   },
   {
+    "domain": "https://coastwidemechanicalcentralcoast.com.au",
+    "date": "2026-09-15T13:07:56.722Z",
+    "detectedTechnologies": [
+      {
+        "technology": "PHP",
+        "category": "Programming Language",
+        "proofs": [
+          "Header 'x-powered-by' has value: PHP/8.4.25"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "CMS",
+        "proofs": [
+          "WordPress 7.1"
+        ]
+      }
+    ]
+  },
+  {
     "domain": "https://amourfinder.com",
-    "date": "2026-09-15T11:56:08.497Z",
+    "date": "2026-09-15T13:07:58.062Z",
     "detectedTechnologies": []
   },
   {
+    "domain": "https://lojatatical.com.br",
+    "date": "2026-09-15T13:08:01.387Z",
+    "detectedTechnologies": [
+      {
+        "technology": "Google Tag Manager",
+        "category": "Analytics & Tracking",
+        "proofs": [
+          "https://www.googletagmanager.com/gtag/js?id=G-G6KPZWXBZV"
+        ]
+      },
+      {
+        "technology": "FontAwesome",
+        "category": "Icon Font",
+        "proofs": [
+          "https://www.lojatatical.com.br/static/frontend/bistwobis/tatical/pt_BR/Magezon_Core/css/fontawesome5.css"
+        ]
+      },
+      {
+        "technology": "Bootstrap",
+        "category": "UI Framework",
+        "proofs": [
+          "https://www.lojatatical.com.br/static/frontend/bistwobis/tatical/pt_BR/Magezon_Core/css/mgz_bootstrap.css"
+        ]
+      }
+    ]
+  },
+  {
     "domain": "https://jobresourcecentre.com",
-    "date": "2026-09-15T11:56:08.689Z",
+    "date": "2026-09-15T13:08:01.836Z",
     "detectedTechnologies": [
       {
         "technology": "WordPress Resources",
@@ -422,8 +1058,14 @@
     ]
   },
   {
+    "domain": "https://ferienwohnung-kastell.de",
+    "status": "error",
+    "error": "unable to verify the first certificate",
+    "technologies": []
+  },
+  {
     "domain": "https://253media.com",
-    "date": "2026-09-15T11:56:09.189Z",
+    "date": "2026-09-15T13:08:02.571Z",
     "detectedTechnologies": [
       {
         "technology": "Cloudflare",
@@ -451,8 +1093,51 @@
     ]
   },
   {
+    "domain": "https://velvety.eu",
+    "date": "2026-09-15T13:08:02.990Z",
+    "detectedTechnologies": [
+      {
+        "technology": "WordPress Resources",
+        "category": "CMS",
+        "proofs": [
+          "https://www.velvety-cosmetics.com/wp-content/plugins/sitepress-multilingual-cms/res/js/cookies/language-cookie.js?ver=495000",
+          "https://www.velvety-cosmetics.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "https://www.velvety-cosmetics.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+          "https://www.velvety-cosmetics.com/wp-content/plugins/cookie-law-info/legacy/public/js/cookie-law-info-public.js?ver=3.5.3",
+          "https://www.velvety-cosmetics.com/wp-includes/js/dist/hooks.min.js?ver=7496969728ca0f95732d",
+          "https://www.velvety-cosmetics.com/wp-includes/js/dist/i18n.min.js?ver=781d11515ad3d91786ec",
+          "https://www.velvety-cosmetics.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.6",
+          "https://www.velvety-cosmetics.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.6",
+          "https://www.velvety-cosmetics.com/wp-content/plugins/cf7-multi-step/assets/frontend/js/cf7mls.js?ver=2.8.0",
+          "https://www.velvety-cosmetics.com/wp-content/themes/flatsome-child/flatsome-child/js/counter.js?ver=1.0.0",
+          "https://www.velvety-cosmetics.com/wp-content/themes/flatsome/assets/js/extensions/flatsome-live-search.js?ver=3.20.8",
+          "https://www.velvety-cosmetics.com/wp-content/plugins/cf7-conditional-fields/js/scripts.js?ver=2.7.10",
+          "https://www.velvety-cosmetics.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0",
+          "https://www.velvety-cosmetics.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.6",
+          "https://www.velvety-cosmetics.com/wp-includes/js/hoverIntent.min.js?ver=1.10.2",
+          "https://www.velvety-cosmetics.com/wp-content/themes/flatsome/assets/js/flatsome.js?ver=e2eddd6c228105dac048"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "JavaScript Library",
+        "proofs": [
+          "https://www.velvety-cosmetics.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "https://www.velvety-cosmetics.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"
+        ]
+      },
+      {
+        "technology": "FontAwesome",
+        "category": "Icon Font",
+        "proofs": [
+          "https://www.velvety-cosmetics.com/wp-content/themes/flatsome-child/flatsome-child/font-awesome/font-awesome.min.css?ver=2f9c6a7aacee83017ac5913fa542beec"
+        ]
+      }
+    ]
+  },
+  {
     "domain": "https://doortodoororganics.com",
-    "date": "2026-09-15T11:56:09.567Z",
+    "date": "2026-09-15T13:08:03.308Z",
     "detectedTechnologies": [
       {
         "technology": "Cloudflare",
@@ -471,10 +1156,292 @@
     ]
   },
   {
+    "domain": "https://kentpropertyrenovations.co.uk",
+    "date": "2026-09-15T13:08:04.324Z",
+    "detectedTechnologies": [
+      {
+        "technology": "Apache",
+        "category": "Web Server",
+        "proofs": [
+          "Header 'server' has value: Apache"
+        ]
+      },
+      {
+        "technology": "WordPress Resources",
+        "category": "CMS",
+        "proofs": [
+          "//kentpropertyrenovations.co.uk/wp-content/cache/wpfc-minified/eivkzpl2/8145e.js",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/modernizr.js?ver=3.3.1",
+          "https://kentpropertyrenovations.co.uk/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-column-bg-image.js?ver=1",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/cssua.js?ver=2.1.28",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.waypoints.js?ver=2.0.3",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-waypoints.js?ver=1",
+          "https://kentpropertyrenovations.co.uk/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-animations.js?ver=1",
+          "https://kentpropertyrenovations.co.uk/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-title.js?ver=1",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion.js?ver=3.2.1",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/isotope.js?ver=3.0.4",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/packery.js?ver=2.0.0",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/bootstrap.tooltip.js?ver=3.3.5",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.requestAnimationFrame.js?ver=1",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.carouFredSel.js?ver=6.2.1",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.cycle.js?ver=3.0.3",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.easing.js?ver=1.3",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.fitvids.js?ver=1.1",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.flexslider.js?ver=2.7.2",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.hoverflow.js?ver=1",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.hoverintent.js?ver=1",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.ilightbox.js?ver=2.2.3",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.infinitescroll.js?ver=2.1",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.mousewheel.js?ver=3.0.6",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.placeholder.js?ver=2.0.7",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.touchSwipe.js?ver=1.6.6",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.fade.js?ver=1",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/imagesLoaded.js?ver=3.1.8",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-equal-heights.js?ver=1",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/fusion-parallax.js?ver=1",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/fusion-video-general.js?ver=1",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/fusion-video-bg.js?ver=1",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-lightbox.js?ver=1",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-carousel.js?ver=1",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-tooltip.js?ver=1",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-sharing-box.js?ver=1",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.sticky-kit.js?ver=1.1.2",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/lazysizes.js?ver=6.9.4",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/assets/min/js/general/avada-skip-link-focus-fix.js?ver=7.2.1",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/assets/min/js/library/bootstrap.scrollspy.js?ver=3.3.2",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/assets/min/js/general/avada-general-footer.js?ver=7.2.1",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/assets/min/js/general/avada-quantity.js?ver=7.2.1",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/assets/min/js/general/avada-select.js?ver=7.2.1",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/assets/min/js/general/avada-tabs-widget.js?ver=7.2.1",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/assets/min/js/library/jquery.elasticslider.js?ver=7.2.1",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/assets/min/js/general/avada-live-search.js?ver=7.2.1",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-alert.js?ver=6.9.4",
+          "https://kentpropertyrenovations.co.uk/wp-content/plugins/fusion-builder/assets/js/min/library/jquery.textillate.js?ver=2.0",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-button.js?ver=6.9.4",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-flexslider.js?ver=6.9.4",
+          "https://kentpropertyrenovations.co.uk/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-form.js?ver=3.2.1",
+          "https://kentpropertyrenovations.co.uk/wp-content/plugins/fusion-core/js/min/avada-portfolio.js?ver=5.2.1",
+          "https://kentpropertyrenovations.co.uk/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-testimonials.js?ver=1",
+          "https://kentpropertyrenovations.co.uk/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-flip-boxes.js?ver=1",
+          "https://kentpropertyrenovations.co.uk/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-container.js?ver=1",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/assets/min/js/general/avada-header.js?ver=7.2.1",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-responsive-typography.js?ver=1",
+          "https://kentpropertyrenovations.co.uk/wp-content/plugins/fusion-core/js/min/avada-fusion-slider.js?ver=5.2.1",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/assets/min/js/general/avada-elastic-slider.js?ver=7.2.1",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/assets/min/js/general/avada-drop-down.js?ver=7.2.1",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/assets/min/js/general/avada-to-top.js?ver=7.2.1",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/assets/min/js/general/avada-menu.js?ver=7.2.1",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/assets/min/js/general/avada-sidebars.js?ver=7.2.1",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/assets/min/js/general/avada-scrollspy.js?ver=7.2.1",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-scroll-to-anchor.js?ver=1",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-general-global.js?ver=1",
+          "https://kentpropertyrenovations.co.uk/wp-content/plugins/fusion-core/js/min/fusion-vertical-menu-widget.js?ver=5.2.1",
+          "https://kentpropertyrenovations.co.uk/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-video.js?ver=1",
+          "https://kentpropertyrenovations.co.uk/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-column.js?ver=1"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "JavaScript Library",
+        "proofs": [
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.waypoints.js?ver=2.0.3",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.requestAnimationFrame.js?ver=1",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.carouFredSel.js?ver=6.2.1",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.cycle.js?ver=3.0.3",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.easing.js?ver=1.3",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.fitvids.js?ver=1.1",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.flexslider.js?ver=2.7.2",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.hoverflow.js?ver=1",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.hoverintent.js?ver=1",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.ilightbox.js?ver=2.2.3",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.infinitescroll.js?ver=2.1",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.mousewheel.js?ver=3.0.6",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.placeholder.js?ver=2.0.7",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.touchSwipe.js?ver=1.6.6",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.fade.js?ver=1",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.sticky-kit.js?ver=1.1.2",
+          "https://kentpropertyrenovations.co.uk/wp-content/themes/Avada/assets/min/js/library/jquery.elasticslider.js?ver=7.2.1",
+          "https://kentpropertyrenovations.co.uk/wp-content/plugins/fusion-builder/assets/js/min/library/jquery.textillate.js?ver=2.0"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "CMS",
+        "proofs": [
+          "WordPress 6.9.4"
+        ]
+      }
+    ]
+  },
+  {
     "domain": "https://fisherinvestments.com",
     "status": "error",
     "error": "Request failed with status code 403",
     "technologies": []
+  },
+  {
+    "domain": "https://rionecontrastanga.net",
+    "date": "2026-09-15T13:08:05.461Z",
+    "detectedTechnologies": [
+      {
+        "technology": "PHP",
+        "category": "Programming Language",
+        "proofs": [
+          "Header 'x-powered-by' has value: PHP/7.4.33"
+        ]
+      },
+      {
+        "technology": "WordPress Resources",
+        "category": "CMS",
+        "proofs": [
+          "https://rionecontrastanga.net/wp-content/themes/bridge/js/plugins/ScrollToPlugin.min.js?ver=6.5.10",
+          "https://rionecontrastanga.net/wp-content/plugins/LayerSlider/static/layerslider/js/greensock.js?ver=1.19.0",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+          "https://rionecontrastanga.net/wp-content/plugins/LayerSlider/static/layerslider/js/layerslider.kreaturamedia.jquery.js?ver=6.7.5",
+          "https://rionecontrastanga.net/wp-content/plugins/LayerSlider/static/layerslider/js/layerslider.transitions.js?ver=6.7.5",
+          "https://rionecontrastanga.net/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.7.4",
+          "https://rionecontrastanga.net/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.7.4",
+          "https://rionecontrastanga.net/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2",
+          "https://rionecontrastanga.net/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0",
+          "https://rionecontrastanga.net/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0",
+          "https://rionecontrastanga.net/wp-includes/js/dist/hooks.min.js?ver=2810c76e705dd1a53b18",
+          "https://rionecontrastanga.net/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6",
+          "https://rionecontrastanga.net/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.9.8",
+          "https://rionecontrastanga.net/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.9.8",
+          "https://rionecontrastanga.net/wp-content/themes/bridge/js/plugins/qode-like.min.js?ver=6.5.10",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/accordion.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/menu.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/dist/dom-ready.min.js?ver=f77871ff7694fffea381",
+          "https://rionecontrastanga.net/wp-includes/js/dist/a11y.min.js?ver=d90eebea464f6c09bfd5",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/controlgroup.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/checkboxradio.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/button.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/dialog.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/progressbar.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/selectable.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/slider.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/spinner.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/tooltip.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/tabs.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/effect.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/effect-blind.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/effect-bounce.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/effect-clip.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/effect-drop.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/effect-explode.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/effect-fade.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/effect-fold.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/effect-highlight.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/effect-pulsate.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/effect-size.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/effect-scale.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/effect-shake.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/effect-slide.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/effect-transfer.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-content/themes/bridge/js/plugins.js?ver=6.5.10",
+          "https://rionecontrastanga.net/wp-content/themes/bridge/js/plugins/jquery.carouFredSel-6.2.1.min.js?ver=6.5.10",
+          "https://rionecontrastanga.net/wp-content/themes/bridge/js/plugins/lemmon-slider.min.js?ver=6.5.10",
+          "https://rionecontrastanga.net/wp-content/themes/bridge/js/plugins/jquery.fullPage.min.js?ver=6.5.10",
+          "https://rionecontrastanga.net/wp-content/themes/bridge/js/plugins/jquery.mousewheel.min.js?ver=6.5.10",
+          "https://rionecontrastanga.net/wp-content/themes/bridge/js/plugins/jquery.touchSwipe.min.js?ver=6.5.10",
+          "https://rionecontrastanga.net/wp-content/plugins/js_composer/assets/lib/bower/isotope/dist/isotope.pkgd.min.js?ver=6.8.0",
+          "https://rionecontrastanga.net/wp-content/themes/bridge/js/plugins/packery-mode.pkgd.min.js?ver=6.5.10",
+          "https://rionecontrastanga.net/wp-content/themes/bridge/js/plugins/jquery.stretch.js?ver=6.5.10",
+          "https://rionecontrastanga.net/wp-content/themes/bridge/js/plugins/imagesloaded.js?ver=6.5.10",
+          "https://rionecontrastanga.net/wp-content/themes/bridge/js/plugins/rangeslider.min.js?ver=6.5.10",
+          "https://rionecontrastanga.net/wp-content/themes/bridge/js/plugins/jquery.event.move.js?ver=6.5.10",
+          "https://rionecontrastanga.net/wp-content/themes/bridge/js/plugins/jquery.twentytwenty.js?ver=6.5.10",
+          "https://rionecontrastanga.net/wp-content/themes/bridge/js/plugins/TweenLite.min.js?ver=6.5.10",
+          "https://rionecontrastanga.net/wp-content/themes/bridge/js/plugins/smoothPageScroll.min.js?ver=6.5.10",
+          "https://rionecontrastanga.net/wp-content/themes/bridge/js/default_dynamic.js?ver=1685374103",
+          "https://rionecontrastanga.net/wp-content/themes/bridge/js/default.min.js?ver=6.5.10",
+          "https://rionecontrastanga.net/wp-content/themes/bridge/js/custom_js.js?ver=1685374103",
+          "https://rionecontrastanga.net/wp-includes/js/comment-reply.min.js?ver=6.5.10",
+          "https://rionecontrastanga.net/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.8.0",
+          "https://rionecontrastanga.net/wp-content/plugins/creame-whatsapp-me/public/js/joinchat.min.js?ver=6.3.2",
+          "https://rionecontrastanga.net/wp-content/plugins/instagram-feed/js/sbi-scripts.min.js?ver=6.13.0"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "JavaScript Library",
+        "proofs": [
+          "https://rionecontrastanga.net/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+          "https://rionecontrastanga.net/wp-content/plugins/LayerSlider/static/layerslider/js/layerslider.kreaturamedia.jquery.js?ver=6.7.5",
+          "https://rionecontrastanga.net/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.7.4",
+          "https://rionecontrastanga.net/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.7.4",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/accordion.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/menu.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/controlgroup.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/checkboxradio.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/button.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/dialog.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/progressbar.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/selectable.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/slider.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/spinner.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/tooltip.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/tabs.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/effect.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/effect-blind.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/effect-bounce.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/effect-clip.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/effect-drop.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/effect-explode.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/effect-fade.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/effect-fold.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/effect-highlight.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/effect-pulsate.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/effect-size.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/effect-scale.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/effect-shake.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/effect-slide.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-includes/js/jquery/ui/effect-transfer.min.js?ver=1.13.2",
+          "https://rionecontrastanga.net/wp-content/themes/bridge/js/plugins/jquery.carouFredSel-6.2.1.min.js?ver=6.5.10",
+          "https://rionecontrastanga.net/wp-content/themes/bridge/js/plugins/jquery.fullPage.min.js?ver=6.5.10",
+          "https://rionecontrastanga.net/wp-content/themes/bridge/js/plugins/jquery.mousewheel.min.js?ver=6.5.10",
+          "https://rionecontrastanga.net/wp-content/themes/bridge/js/plugins/jquery.touchSwipe.min.js?ver=6.5.10",
+          "https://rionecontrastanga.net/wp-content/themes/bridge/js/plugins/jquery.stretch.js?ver=6.5.10",
+          "https://rionecontrastanga.net/wp-content/themes/bridge/js/plugins/jquery.event.move.js?ver=6.5.10",
+          "https://rionecontrastanga.net/wp-content/themes/bridge/js/plugins/jquery.twentytwenty.js?ver=6.5.10"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "CMS",
+        "proofs": [
+          "Powered by LayerSlider 6.7.5 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress.",
+          "WordPress 6.5.10",
+          "Powered by WPBakery Page Builder - drag and drop page builder for WordPress.",
+          "Powered by Slider Revolution 5.4.7.4 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface."
+        ]
+      },
+      {
+        "technology": "FontAwesome",
+        "category": "Icon Font",
+        "proofs": [
+          "https://rionecontrastanga.net/wp-content/themes/bridge/css/font-awesome/css/font-awesome.min.css?ver=6.5.10"
+        ]
+      }
+    ]
   },
   {
     "domain": "https://stwannas.com",
@@ -483,8 +1450,14 @@
     "technologies": []
   },
   {
+    "domain": "https://empresasori.com",
+    "status": "error",
+    "error": "certificate has expired",
+    "technologies": []
+  },
+  {
     "domain": "https://familybroker.cz",
-    "date": "2026-09-15T11:56:10.661Z",
+    "date": "2026-09-15T13:08:07.030Z",
     "detectedTechnologies": [
       {
         "technology": "Cloudflare",
@@ -496,8 +1469,21 @@
     ]
   },
   {
+    "domain": "https://genesisny.net",
+    "date": "2026-09-15T13:08:07.524Z",
+    "detectedTechnologies": [
+      {
+        "technology": "Google Analytics",
+        "category": "Analytics & Tracking",
+        "proofs": [
+          "http://www.google-analytics.com/urchin.js"
+        ]
+      }
+    ]
+  },
+  {
     "domain": "https://5w.design",
-    "date": "2026-09-15T11:56:10.946Z",
+    "date": "2026-09-15T13:08:07.759Z",
     "detectedTechnologies": [
       {
         "technology": "Cloudflare",
@@ -534,19 +1520,123 @@
     ]
   },
   {
-    "domain": "https://marien-apotheke-grefrath-app.de",
-    "date": "2026-09-15T11:56:11.284Z",
-    "detectedTechnologies": []
-  },
-  {
-    "domain": "https://infoaboutnetwork.com",
+    "domain": "https://huberautomotive.com",
     "status": "error",
-    "error": "timeout of 8000ms exceeded",
+    "error": "Request failed with status code 403",
     "technologies": []
   },
   {
+    "domain": "https://marien-apotheke-grefrath-app.de",
+    "date": "2026-09-15T13:08:08.435Z",
+    "detectedTechnologies": []
+  },
+  {
+    "domain": "https://centreconsiliereavort.ro",
+    "date": "2026-09-15T13:08:08.946Z",
+    "detectedTechnologies": [
+      {
+        "technology": "PHP",
+        "category": "Programming Language",
+        "proofs": [
+          "Header 'x-powered-by' has value: PHP/7.4.33"
+        ]
+      },
+      {
+        "technology": "WordPress Resources",
+        "category": "CMS",
+        "proofs": [
+          "https://centreconsiliereavort.ro/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "https://centreconsiliereavort.ro/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+          "https://centreconsiliereavort.ro/wp-content/themes/twentytwelve/js/navigation.js?ver=20250303"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "JavaScript Library",
+        "proofs": [
+          "https://centreconsiliereavort.ro/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "https://centreconsiliereavort.ro/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "CMS",
+        "proofs": [
+          "WordPress 7.1"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "https://infoaboutnetwork.com",
+    "date": "2026-09-15T13:08:14.321Z",
+    "detectedTechnologies": [
+      {
+        "technology": "Cloudflare",
+        "category": "CDN & Security",
+        "proofs": [
+          "Header 'server' has value: cloudflare"
+        ]
+      },
+      {
+        "technology": "WordPress Resources",
+        "category": "CMS",
+        "proofs": [
+          "https://www.infoaboutnetwork.com/wp-content/themes/generatepress/assets/js/menu.min.js?ver=3.3.1",
+          "https://www.infoaboutnetwork.com/wp-content/themes/generatepress/assets/js/navigation-search.min.js?ver=3.3.1",
+          "https://www.infoaboutnetwork.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "https://www.infoaboutnetwork.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+          "https://www.infoaboutnetwork.com/wp-content/plugins/wp-show-posts/js/jquery.matchHeight.js?ver=1.1.5"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "JavaScript Library",
+        "proofs": [
+          "https://www.infoaboutnetwork.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "https://www.infoaboutnetwork.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+          "https://www.infoaboutnetwork.com/wp-content/plugins/wp-show-posts/js/jquery.matchHeight.js?ver=1.1.5"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "CMS",
+        "proofs": [
+          "WordPress 7.1"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "https://11853prospecthill.com",
+    "date": "2026-09-15T13:08:14.526Z",
+    "detectedTechnologies": [
+      {
+        "technology": "Cloudflare",
+        "category": "CDN & Security",
+        "proofs": [
+          "Header 'server' has value: cloudflare"
+        ]
+      },
+      {
+        "technology": "Google Tag Manager",
+        "category": "Analytics & Tracking",
+        "proofs": [
+          "https://www.googletagmanager.com/gtag/js"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "JavaScript Library",
+        "proofs": [
+          "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"
+        ]
+      }
+    ]
+  },
+  {
     "domain": "https://passwordstore.it",
-    "date": "2026-09-15T11:56:19.752Z",
+    "date": "2026-09-15T13:08:14.805Z",
     "detectedTechnologies": [
       {
         "technology": "Nginx",
@@ -577,14 +1667,169 @@
     ]
   },
   {
+    "domain": "https://avocatalinamanciu.ro",
+    "date": "2026-09-15T13:08:14.912Z",
+    "detectedTechnologies": [
+      {
+        "technology": "WordPress Resources",
+        "category": "CMS",
+        "proofs": [
+          "https://avocatalinamanciu.ro/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.15.1",
+          "https://avocatalinamanciu.ro/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "https://avocatalinamanciu.ro/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+          "https://avocatalinamanciu.ro/wp-content/plugins/cookie-notice/js/front.min.js?ver=2.4.9",
+          "https://avocatalinamanciu.ro/wp-includes/js/imagesloaded.min.js?ver=5.0.0",
+          "https://avocatalinamanciu.ro/wp-content/themes/oceanwp/assets/js/theme.min.js?ver=3.4.4",
+          "https://avocatalinamanciu.ro/wp-content/themes/oceanwp/assets/js/drop-down-mobile-menu.min.js?ver=3.4.4",
+          "https://avocatalinamanciu.ro/wp-content/themes/oceanwp/assets/js/drop-down-search.min.js?ver=3.4.4",
+          "https://avocatalinamanciu.ro/wp-content/themes/oceanwp/assets/js/vendors/magnific-popup.min.js?ver=3.4.4",
+          "https://avocatalinamanciu.ro/wp-content/themes/oceanwp/assets/js/ow-lightbox.min.js?ver=3.4.4",
+          "https://avocatalinamanciu.ro/wp-content/themes/oceanwp/assets/js/vendors/flickity.pkgd.min.js?ver=3.4.4",
+          "https://avocatalinamanciu.ro/wp-content/themes/oceanwp/assets/js/ow-slider.min.js?ver=3.4.4",
+          "https://avocatalinamanciu.ro/wp-content/themes/oceanwp/assets/js/scroll-effect.min.js?ver=3.4.4",
+          "https://avocatalinamanciu.ro/wp-content/themes/oceanwp/assets/js/scroll-top.min.js?ver=3.4.4",
+          "https://avocatalinamanciu.ro/wp-content/themes/oceanwp/assets/js/select.min.js?ver=3.4.4",
+          "https://avocatalinamanciu.ro/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.15.1",
+          "https://avocatalinamanciu.ro/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.15.1",
+          "https://avocatalinamanciu.ro/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2",
+          "https://avocatalinamanciu.ro/wp-includes/js/jquery/ui/core.min.js?ver=1.14.2",
+          "https://avocatalinamanciu.ro/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.15.1",
+          "https://avocatalinamanciu.ro/wp-content/plugins/jeg-elementor-kit/assets/js/elements/sticky-element.js?ver=2.6.1",
+          "https://avocatalinamanciu.ro/wp-content/plugins/jeg-elementor-kit/assets/js/elements/nav-menu.js?ver=2.6.1",
+          "https://avocatalinamanciu.ro/wp-content/plugins/jeg-elementor-kit/assets/js/elements/fun-fact.js?ver=2.6.1",
+          "https://avocatalinamanciu.ro/wp-content/plugins/jeg-elementor-kit/assets/js/elements/testimonials.js?ver=2.6.1",
+          "https://avocatalinamanciu.ro/wp-content/plugins/jeg-elementor-kit/assets/js/tiny-slider/tiny-slider.js?ver=2.9.3",
+          "https://avocatalinamanciu.ro/wp-content/plugins/pro-elements/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1",
+          "https://avocatalinamanciu.ro/wp-content/plugins/pro-elements/assets/js/webpack-pro.runtime.min.js?ver=3.14.0",
+          "https://avocatalinamanciu.ro/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255",
+          "https://avocatalinamanciu.ro/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216",
+          "https://avocatalinamanciu.ro/wp-content/plugins/pro-elements/assets/js/frontend.min.js?ver=3.14.0",
+          "https://avocatalinamanciu.ro/wp-content/plugins/pro-elements/assets/js/elements-handlers.min.js?ver=3.14.0"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "JavaScript Library",
+        "proofs": [
+          "https://avocatalinamanciu.ro/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "https://avocatalinamanciu.ro/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+          "https://avocatalinamanciu.ro/wp-includes/js/jquery/ui/core.min.js?ver=1.14.2",
+          "https://avocatalinamanciu.ro/wp-content/plugins/pro-elements/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1"
+        ]
+      },
+      {
+        "technology": "Google Tag Manager",
+        "category": "Analytics & Tracking",
+        "proofs": [
+          "https://www.googletagmanager.com/gtag/js?id=UA-273560545-1"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "CMS",
+        "proofs": [
+          "WordPress 7.1"
+        ]
+      },
+      {
+        "technology": "FontAwesome",
+        "category": "Icon Font",
+        "proofs": [
+          "https://avocatalinamanciu.ro/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.15.1",
+          "https://avocatalinamanciu.ro/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.15.1",
+          "https://avocatalinamanciu.ro/wp-content/themes/oceanwp/assets/fonts/fontawesome/css/all.min.css?ver=5.15.1",
+          "https://avocatalinamanciu.ro/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3",
+          "https://avocatalinamanciu.ro/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3"
+        ]
+      }
+    ]
+  },
+  {
     "domain": "https://abcdpinturas.com.br",
     "status": "error",
     "error": "Hostname/IP does not match certificate's altnames: Host: abcdpinturas.com.br. is not in the cert's altnames: DNS:*.uni5.net, DNS:uni5.net",
     "technologies": []
   },
   {
+    "domain": "https://dssfla.com",
+    "date": "2026-09-15T13:08:17.294Z",
+    "detectedTechnologies": [
+      {
+        "technology": "Apache",
+        "category": "Web Server",
+        "proofs": [
+          "Header 'server' has value: Apache"
+        ]
+      },
+      {
+        "technology": "WordPress Resources",
+        "category": "CMS",
+        "proofs": [
+          "https://www.dssfla.com/wp-content/plugins/litespeed-cache/assets/js/webfontloader.min.js",
+          "https://www.dssfla.com/wp-includes/js/jquery/jquery.min.js",
+          "https://www.dssfla.com/wp-content/litespeed/js/9ad4cca1f84d7bc8ae505ac092907c37.js?ver=07c37",
+          "https://www.dssfla.com/wp-content/litespeed/js/ea4563f5592d494a0669692c0d33e08c.js?ver=3e08c",
+          "https://www.dssfla.com/wp-content/litespeed/js/311c1b9a1a62c0567ade91e0a9e08e49.js?ver=08e49",
+          "https://www.dssfla.com/wp-content/litespeed/js/06153cf6473c9fc20ad19522466a329d.js?ver=a329d",
+          "https://www.dssfla.com/wp-content/litespeed/js/c9c47ab2948ec2b3e5e6925168648466.js?ver=48466",
+          "https://www.dssfla.com/wp-content/litespeed/js/3eabfdb15c589e2218f68fd3f729d616.js?ver=9d616",
+          "https://www.dssfla.com/wp-content/litespeed/js/beb4472ae9fd498e1c2a5647484ea188.js?ver=ea188",
+          "https://www.dssfla.com/wp-content/litespeed/js/9c5e90dd339d9127582005bba6e1d66a.js?ver=1d66a",
+          "https://www.dssfla.com/wp-content/litespeed/js/006bd427a52686598775a95fcbfece3e.js?ver=ece3e",
+          "https://www.dssfla.com/wp-content/litespeed/js/cf3d56bbed697cc0eba89efd114a3ec3.js?ver=a3ec3",
+          "https://www.dssfla.com/wp-content/litespeed/js/8c6654d8657e1c7e5d9e47ae9698ccab.js?ver=8ccab",
+          "https://www.dssfla.com/wp-content/litespeed/js/261efdb89b9ef995552beaec6fc24151.js?ver=24151",
+          "https://www.dssfla.com/wp-content/litespeed/js/bc8cdd4a2df223dbb7a3c8d277fb578f.js?ver=b578f",
+          "https://www.dssfla.com/wp-content/litespeed/js/a8a1aa3b5b270fdcafa25069af6ddae1.js?ver=ddae1",
+          "https://www.dssfla.com/wp-content/litespeed/js/25b3ec229b1cb0cdb90c0a33b98f648f.js?ver=f648f",
+          "https://www.dssfla.com/wp-content/litespeed/js/e2cbe07e52ee1bf804fc918da5dcd918.js?ver=cd918",
+          "https://www.dssfla.com/wp-content/litespeed/js/22c5bb21fdaac5789637b2511f7ed2fa.js?ver=ed2fa",
+          "https://www.dssfla.com/wp-content/litespeed/js/9cdef078b24df4daff549bec49dbed91.js?ver=bed91",
+          "https://www.dssfla.com/wp-content/litespeed/js/90b74a2ac95f971ce9cf313f9cb9d2ec.js?ver=9d2ec",
+          "https://www.dssfla.com/wp-content/litespeed/js/bacdb95c111f7a18d0060f3e03a1462e.js?ver=1462e",
+          "https://www.dssfla.com/wp-content/litespeed/js/5a4018dc6fdd0a024ee881e29f1555e4.js?ver=555e4",
+          "https://www.dssfla.com/wp-content/litespeed/js/d042e1ca1e33cd94d94f65632c897386.js?ver=97386",
+          "https://www.dssfla.com/wp-content/litespeed/js/a9539a767ab418d5343d0b47278a2bab.js?ver=a2bab",
+          "https://www.dssfla.com/wp-content/litespeed/js/3f27cea0c45af12e4740e2c8afe654eb.js?ver=654eb",
+          "https://www.dssfla.com/wp-content/litespeed/js/fc79af8ddb0e99300a6d98c5522d1080.js?ver=d1080",
+          "https://www.dssfla.com/wp-content/litespeed/js/b9b7ce617305d77a7bdecc2462fc49e4.js?ver=c49e4",
+          "https://www.dssfla.com/wp-content/litespeed/js/19de3ee3c9d14e5b23870e29b39b81cf.js?ver=b81cf",
+          "https://www.dssfla.com/wp-content/litespeed/js/64b6166d01564285c125fce1a3fdf7c0.js?ver=df7c0",
+          "https://www.dssfla.com/wp-content/litespeed/js/b956e9558301cefbf07ce5b877384fb6.js?ver=84fb6",
+          "https://www.dssfla.com/wp-content/litespeed/js/a8dc9176cab7128a84948ed831c80599.js?ver=80599",
+          "https://www.dssfla.com/wp-content/litespeed/js/c2bc03fdcf664b508b16e39de71700dc.js?ver=700dc",
+          "https://www.dssfla.com/wp-content/litespeed/js/92c2bfaa110c3b865d03d33a6cec3794.js?ver=c3794",
+          "https://www.dssfla.com/wp-content/litespeed/js/473102faf04ddb7e5b34e3a6ce8c5366.js?ver=c5366",
+          "https://www.dssfla.com/wp-content/litespeed/js/e499ebb43ea2bcfe2ee4a15553b82362.js?ver=82362"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "JavaScript Library",
+        "proofs": [
+          "https://www.dssfla.com/wp-includes/js/jquery/jquery.min.js"
+        ]
+      },
+      {
+        "technology": "Google Tag Manager",
+        "category": "Analytics & Tracking",
+        "proofs": [
+          "https://www.googletagmanager.com/gtag/js?id=G-LNGTVS4XD4"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "CMS",
+        "proofs": [
+          "WordPress 7.0.4",
+          "Powered by WPBakery Page Builder - drag and drop page builder for WordPress."
+        ]
+      }
+    ]
+  },
+  {
     "domain": "https://weducars.co.za",
-    "date": "2026-09-15T11:56:22.960Z",
+    "date": "2026-09-15T13:08:17.967Z",
     "detectedTechnologies": [
       {
         "technology": "WordPress Resources",
@@ -677,8 +1922,57 @@
     ]
   },
   {
+    "domain": "https://4stonebuildings.com",
+    "date": "2026-09-15T13:08:18.169Z",
+    "detectedTechnologies": [
+      {
+        "technology": "Cloudflare",
+        "category": "CDN & Security",
+        "proofs": [
+          "Header 'server' has value: cloudflare"
+        ]
+      },
+      {
+        "technology": "WordPress Resources",
+        "category": "CMS",
+        "proofs": [
+          "https://4stonebuildings.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min.js?ver=11.2.0",
+          "https://4stonebuildings.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "https://4stonebuildings.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+          "https://4stonebuildings.com/wp-content/plugins/stop-user-enumeration/frontend/js/frontend.js?ver=1.7.8",
+          "https://4stonebuildings.com/wp-content/plugins/sqe-lawyers-master/public/js/sqe-lawyers.js?ver=1705086463",
+          "https://4stonebuildings.com/wp-content/themes/4stone/dist/bundle.js?ver=1709546753",
+          "https://4stonebuildings.com/wp-content/plugins/shiftnav-pro/assets/js/shiftnav.min.js?ver=1.7.2",
+          "https://4stonebuildings.com/wp-content/plugins/complianz-gdpr/cookiebanner/js/complianz.min.js?ver=1789107664"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "JavaScript Library",
+        "proofs": [
+          "https://4stonebuildings.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "https://4stonebuildings.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"
+        ]
+      },
+      {
+        "technology": "Google Tag Manager",
+        "category": "Analytics & Tracking",
+        "proofs": [
+          "//www.googletagmanager.com/gtag/js?id=G-8X30MHD2PV"
+        ]
+      },
+      {
+        "technology": "FontAwesome",
+        "category": "Icon Font",
+        "proofs": [
+          "https://4stonebuildings.com/wp-content/plugins/shiftnav-pro/assets/css/fontawesome/css/font-awesome.min.css?ver=1.7.2"
+        ]
+      }
+    ]
+  },
+  {
     "domain": "https://maniaupiekszania.pl",
-    "date": "2026-09-15T11:56:25.417Z",
+    "date": "2026-09-15T13:08:20.338Z",
     "detectedTechnologies": [
       {
         "technology": "Apache",
@@ -776,8 +2070,39 @@
     ]
   },
   {
+    "domain": "https://sprucemeadowsmd.com",
+    "date": "2026-09-15T13:08:22.667Z",
+    "detectedTechnologies": [
+      {
+        "technology": "Apache",
+        "category": "Web Server",
+        "proofs": [
+          "Header 'server' has value: Apache"
+        ]
+      },
+      {
+        "technology": "PHP",
+        "category": "Programming Language",
+        "proofs": [
+          "Header 'x-powered-by' has value: PHP/8.3.32"
+        ]
+      },
+      {
+        "technology": "WordPress Resources",
+        "category": "CMS",
+        "proofs": [
+          "https://sprucemeadowsmd.com/wp-content/plugins/accessibility-new-window-warnings/assets/js/accessibility-new-window-warnings-min.js?ver=1.3.1",
+          "https://sprucemeadowsmd.com/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255",
+          "https://sprucemeadowsmd.com/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216",
+          "https://sprucemeadowsmd.com/wp-content/plugins/accessibility-checker/build/frontendFixes.bundle.js?ver=1.49.0",
+          "https://sprucemeadowsmd.com/wp-content/themes/kadence/assets/js/navigation.min.js?ver=1.5.2"
+        ]
+      }
+    ]
+  },
+  {
     "domain": "https://natedea.co.uk",
-    "date": "2026-09-15T11:56:26.860Z",
+    "date": "2026-09-15T13:08:23.357Z",
     "detectedTechnologies": [
       {
         "technology": "Cloudflare",
@@ -818,14 +2143,97 @@
     ]
   },
   {
+    "domain": "https://loizillon.com",
+    "date": "2026-09-15T13:08:24.118Z",
+    "detectedTechnologies": [
+      {
+        "technology": "jQuery",
+        "category": "JavaScript Library",
+        "proofs": [
+          "https://cdn.drouot.com/assets?name=cpg/jquery-743584baf8fc09dcd82ba03b2c8d990e.js",
+          "/assets/jquery_toast/jquery.toast-e6f482ca469096468b65a10857d19fa6.js"
+        ]
+      },
+      {
+        "technology": "Google Tag Manager",
+        "category": "Analytics & Tracking",
+        "proofs": [
+          "https://www.googletagmanager.com/gtag/js?id=G-HCJ5MXKWJ2"
+        ]
+      },
+      {
+        "technology": "Bootstrap",
+        "category": "UI Framework",
+        "proofs": [
+          "/assets/bootstrap-2702cc3efe0973add8272e0853ab03a3.css"
+        ]
+      },
+      {
+        "technology": "FontAwesome",
+        "category": "Icon Font",
+        "proofs": [
+          "/assets/font-awesome/css/font-awesome.min-84f0e98c247f3592f710ccde278d799c.css",
+          "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+        ]
+      }
+    ]
+  },
+  {
     "domain": "https://haus-muehlenfeld-pommerby.de",
     "status": "error",
     "error": "Request failed with status code 403",
     "technologies": []
   },
   {
+    "domain": "https://arenaskolor.se",
+    "date": "2026-09-15T13:08:24.729Z",
+    "detectedTechnologies": [
+      {
+        "technology": "Nginx",
+        "category": "Web Server",
+        "proofs": [
+          "Header 'server' has value: nginx"
+        ]
+      },
+      {
+        "technology": "WordPress Resources",
+        "category": "CMS",
+        "proofs": [
+          "https://arenaskolor.se/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "https://arenaskolor.se/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+          "https://arenaskolor.se/wp-content/themes/hello-elementor/assets/js/hello-frontend.js?ver=3.5.1",
+          "https://arenaskolor.se/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.2.4",
+          "https://arenaskolor.se/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.2.4",
+          "https://arenaskolor.se/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3",
+          "https://arenaskolor.se/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.2.4",
+          "https://arenaskolor.se/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=4.2.2",
+          "https://arenaskolor.se/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6",
+          "https://arenaskolor.se/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6",
+          "https://arenaskolor.se/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=4.2.2",
+          "https://arenaskolor.se/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=4.2.2"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "JavaScript Library",
+        "proofs": [
+          "https://arenaskolor.se/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "https://arenaskolor.se/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+          "https://arenaskolor.se/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "CMS",
+        "proofs": [
+          "WordPress 6.8.8"
+        ]
+      }
+    ]
+  },
+  {
     "domain": "https://boken.ch",
-    "date": "2026-09-15T11:56:27.732Z",
+    "date": "2026-09-15T13:08:25.088Z",
     "detectedTechnologies": [
       {
         "technology": "Apache",
@@ -871,10 +2279,126 @@
     ]
   },
   {
+    "domain": "https://restwellstreetmedicalcentre.com.au",
+    "date": "2026-09-15T13:08:26.114Z",
+    "detectedTechnologies": [
+      {
+        "technology": "Google Tag Manager",
+        "category": "Analytics & Tracking",
+        "proofs": [
+          "https://www.googletagmanager.com/gtag/js?id=G-FXN3LYRQ8Y",
+          "https://www.googletagmanager.com/gtag/js?id=G-Q2BHT65L31",
+          "https://www.googletagmanager.com/gtag/js?id=UA-9749031-2"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "JavaScript Library",
+        "proofs": [
+          "js/jquery.min.js",
+          "js/jquery.easing.min.js"
+        ]
+      },
+      {
+        "technology": "FontAwesome",
+        "category": "Icon Font",
+        "proofs": [
+          "css/font-awesome.min.css",
+          "https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css"
+        ]
+      },
+      {
+        "technology": "Bootstrap",
+        "category": "UI Framework",
+        "proofs": [
+          "css/bootstrap.min.css",
+          "https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css"
+        ]
+      }
+    ]
+  },
+  {
     "domain": "https://den-a-sha.co.jp",
     "status": "error",
     "error": "Hostname/IP does not match certificate's altnames: Host: den-a-sha.co.jp. is not in the cert's altnames: DNS:*.xserver.jp, DNS:xserver.jp",
     "technologies": []
+  },
+  {
+    "domain": "https://365outsource.com",
+    "date": "2026-09-15T13:08:28.932Z",
+    "detectedTechnologies": [
+      {
+        "technology": "Cloudflare",
+        "category": "CDN & Security",
+        "proofs": [
+          "Header 'server' has value: cloudflare"
+        ]
+      },
+      {
+        "technology": "PHP",
+        "category": "Programming Language",
+        "proofs": [
+          "Header 'x-powered-by' has value: PHP/8.2.30"
+        ]
+      },
+      {
+        "technology": "WordPress Resources",
+        "category": "CMS",
+        "proofs": [
+          "https://www.365outsource.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "https://www.365outsource.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+          "https://www.365outsource.com/wp-content/themes/astra/assets/js/minified/style.min.js?ver=4.13.11",
+          "https://www.365outsource.com/wp-content/uploads/astra-addon/astra-addon-6aa064a21501b3-70657662.js?ver=4.13.9",
+          "https://www.365outsource.com/wp-content/plugins/astra-addon/assets/js/minified/purify.min.js?ver=4.13.9",
+          "https://www.365outsource.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.2.4",
+          "https://www.365outsource.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.2.4",
+          "https://www.365outsource.com/wp-includes/js/jquery/ui/core.min.js?ver=1.14.2",
+          "https://www.365outsource.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.2.4",
+          "https://www.365outsource.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1",
+          "https://www.365outsource.com/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5",
+          "https://www.365outsource.com/wp-content/plugins/simple-cloudflare-turnstile/js/integrations/elementor-forms.js?ver=3.0",
+          "https://www.365outsource.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=4.2.3",
+          "https://www.365outsource.com/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255",
+          "https://www.365outsource.com/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216",
+          "https://www.365outsource.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=4.2.3",
+          "https://www.365outsource.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=4.2.3"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "JavaScript Library",
+        "proofs": [
+          "https://www.365outsource.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "https://www.365outsource.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+          "https://www.365outsource.com/wp-includes/js/jquery/ui/core.min.js?ver=1.14.2",
+          "https://www.365outsource.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1"
+        ]
+      },
+      {
+        "technology": "Google Tag Manager",
+        "category": "Analytics & Tracking",
+        "proofs": [
+          "https://www.googletagmanager.com/gtag/js?id=UA-8749295-4"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "CMS",
+        "proofs": [
+          "WordPress 7.1"
+        ]
+      },
+      {
+        "technology": "FontAwesome",
+        "category": "Icon Font",
+        "proofs": [
+          "https://www.365outsource.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3",
+          "https://www.365outsource.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3",
+          "https://www.365outsource.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3",
+          "https://www.365outsource.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3"
+        ]
+      }
+    ]
   },
   {
     "domain": "https://aida-cruises.at",
@@ -883,8 +2407,21 @@
     "technologies": []
   },
   {
+    "domain": "https://lets.gr",
+    "date": "2026-09-15T13:08:29.296Z",
+    "detectedTechnologies": [
+      {
+        "technology": "Nginx",
+        "category": "Web Server",
+        "proofs": [
+          "Header 'server' has value: nginx"
+        ]
+      }
+    ]
+  },
+  {
     "domain": "https://skywayrestaurants.net",
-    "date": "2026-09-15T11:56:34.196Z",
+    "date": "2026-09-15T13:08:33.320Z",
     "detectedTechnologies": [
       {
         "technology": "Nginx",
@@ -939,8 +2476,71 @@
     ]
   },
   {
+    "domain": "https://2020wealthadvisory.com",
+    "date": "2026-09-15T13:08:33.461Z",
+    "detectedTechnologies": [
+      {
+        "technology": "Cloudflare",
+        "category": "CDN & Security",
+        "proofs": [
+          "Header 'server' has value: cloudflare"
+        ]
+      },
+      {
+        "technology": "WordPress Resources",
+        "category": "CMS",
+        "proofs": [
+          "https://2020wealthadvisory.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "https://2020wealthadvisory.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+          "https://2020wealthadvisory.com/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=1.0.0",
+          "https://2020wealthadvisory.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1",
+          "https://2020wealthadvisory.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.2.4",
+          "https://2020wealthadvisory.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.2.4",
+          "https://2020wealthadvisory.com/wp-includes/js/jquery/ui/core.min.js?ver=1.14.2",
+          "https://2020wealthadvisory.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.2.4",
+          "https://2020wealthadvisory.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=4.2.3",
+          "https://2020wealthadvisory.com/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5",
+          "https://2020wealthadvisory.com/wp-includes/js/imagesloaded.min.js?ver=5.0.0",
+          "https://2020wealthadvisory.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=4.2.3",
+          "https://2020wealthadvisory.com/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255",
+          "https://2020wealthadvisory.com/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216",
+          "https://2020wealthadvisory.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=4.2.3",
+          "https://2020wealthadvisory.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=4.2.3"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "JavaScript Library",
+        "proofs": [
+          "https://2020wealthadvisory.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "https://2020wealthadvisory.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+          "https://2020wealthadvisory.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1",
+          "https://2020wealthadvisory.com/wp-includes/js/jquery/ui/core.min.js?ver=1.14.2",
+          "https://2020wealthadvisory.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=4.2.3"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "CMS",
+        "proofs": [
+          "WordPress 7.1"
+        ]
+      },
+      {
+        "technology": "FontAwesome",
+        "category": "Icon Font",
+        "proofs": [
+          "https://2020wealthadvisory.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3",
+          "https://2020wealthadvisory.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3",
+          "https://2020wealthadvisory.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3",
+          "https://2020wealthadvisory.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3"
+        ]
+      }
+    ]
+  },
+  {
     "domain": "https://hnafirm.com",
-    "date": "2026-09-15T11:56:36.487Z",
+    "date": "2026-09-15T13:08:34.677Z",
     "detectedTechnologies": [
       {
         "technology": "Nginx",
@@ -975,8 +2575,47 @@
     ]
   },
   {
+    "domain": "https://itsolutions24.pl",
+    "date": "2026-09-15T13:08:35.090Z",
+    "detectedTechnologies": [
+      {
+        "technology": "Apache",
+        "category": "Web Server",
+        "proofs": [
+          "Header 'server' has value: Apache"
+        ]
+      },
+      {
+        "technology": "WordPress Resources",
+        "category": "CMS",
+        "proofs": [
+          "https://itsolutions24.pl/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "https://itsolutions24.pl/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+          "https://itsolutions24.pl/wp-content/themes/titan-digital-agency/assets/js/custom-script.js?ver=1",
+          "https://itsolutions24.pl/wp-includes/js/dist/script-modules/block-library/navigation/view.min.js?ver=1bf28ded04f9f188bdcb",
+          "https://itsolutions24.pl/wp-content/themes/titan-digital-agency/assets/js/scroll-to-top.js?ver=4.3.4"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "JavaScript Library",
+        "proofs": [
+          "https://itsolutions24.pl/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "https://itsolutions24.pl/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "CMS",
+        "proofs": [
+          "WordPress 7.1"
+        ]
+      }
+    ]
+  },
+  {
     "domain": "https://aaice.net",
-    "date": "2026-09-15T11:56:36.896Z",
+    "date": "2026-09-15T13:08:35.216Z",
     "detectedTechnologies": [
       {
         "technology": "Cloudflare",
@@ -1032,8 +2671,14 @@
     ]
   },
   {
+    "domain": "https://ecolab.com",
+    "status": "error",
+    "error": "Request failed with status code 504",
+    "technologies": []
+  },
+  {
     "domain": "https://mehmetefendimacedonia.com",
-    "date": "2026-09-15T11:56:37.376Z",
+    "date": "2026-09-15T13:08:36.160Z",
     "detectedTechnologies": [
       {
         "technology": "Apache",
@@ -1052,8 +2697,49 @@
     ]
   },
   {
+    "domain": "https://laplumedelisibilite.fr",
+    "date": "2026-09-15T13:08:36.610Z",
+    "detectedTechnologies": [
+      {
+        "technology": "Nginx",
+        "category": "Web Server",
+        "proofs": [
+          "Header 'server' has value: nginx"
+        ]
+      },
+      {
+        "technology": "PHP",
+        "category": "Programming Language",
+        "proofs": [
+          "Header 'x-powered-by' has value: PHP/8.2.33, PleskLin"
+        ]
+      },
+      {
+        "technology": "Google Tag Manager",
+        "category": "Analytics & Tracking",
+        "proofs": [
+          "https://www.googletagmanager.com/gtag/js?id=<!-- Google tag (gtag.js) --> <script async src="
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "JavaScript Library",
+        "proofs": [
+          "https://code.jquery.com/jquery-1.7.1.min.js"
+        ]
+      },
+      {
+        "technology": "FontAwesome",
+        "category": "Icon Font",
+        "proofs": [
+          "https://www.laplumedelisibilite.fr/fontawesome/css/all.css"
+        ]
+      }
+    ]
+  },
+  {
     "domain": "https://2ldm.com",
-    "date": "2026-09-15T11:56:37.898Z",
+    "date": "2026-09-15T13:08:36.859Z",
     "detectedTechnologies": [
       {
         "technology": "Google Tag Manager",
@@ -1118,8 +2804,39 @@
     ]
   },
   {
+    "domain": "https://westchesterpointechiro.com",
+    "date": "2026-09-15T13:08:38.283Z",
+    "detectedTechnologies": [
+      {
+        "technology": "Apache",
+        "category": "Web Server",
+        "proofs": [
+          "Header 'server' has value: Apache"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "JavaScript Library",
+        "proofs": [
+          "/nyk/gen3/webroot/js/jquery.min.js",
+          "/nyk/gen3/webroot/js/jquery-migrate.min.js",
+          "/nyk/gen3/webroot/js/jquery.colorbox-min.js",
+          "/nyk/gen3/webroot/js/jquery-accessibleMegaMenu.js",
+          "/nyk/anatomical-search/jquery.popupoverlay.js"
+        ]
+      },
+      {
+        "technology": "Google Tag Manager",
+        "category": "Analytics & Tracking",
+        "proofs": [
+          "https://www.googletagmanager.com/gtag/js?id=UA-128392001-1"
+        ]
+      }
+    ]
+  },
+  {
     "domain": "https://cei-expertises.fr",
-    "date": "2026-09-15T11:56:44.376Z",
+    "date": "2026-09-15T13:08:41.911Z",
     "detectedTechnologies": [
       {
         "technology": "PHP",
@@ -1184,8 +2901,55 @@
     ]
   },
   {
+    "domain": "https://seringa-safaris.com",
+    "date": "2026-09-15T13:08:43.480Z",
+    "detectedTechnologies": [
+      {
+        "technology": "Apache",
+        "category": "Web Server",
+        "proofs": [
+          "Header 'server' has value: Apache"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "JavaScript Library",
+        "proofs": [
+          "/media/jui/js/jquery.min.js?348b234eb139ed97e3fc954af481de98",
+          "/media/jui/js/jquery-noconflict.js?348b234eb139ed97e3fc954af481de98",
+          "/media/jui/js/jquery-migrate.min.js?348b234eb139ed97e3fc954af481de98",
+          "/components/com_sppagebuilder/assets/js/jquery.parallax.js",
+          "/components/com_sppagebuilder/assets/js/jquery.magnific-popup.min.js"
+        ]
+      },
+      {
+        "technology": "Google Tag Manager",
+        "category": "Analytics & Tracking",
+        "proofs": [
+          "https://www.googletagmanager.com/gtag/js?id=UA-126019429-15"
+        ]
+      },
+      {
+        "technology": "FontAwesome",
+        "category": "Icon Font",
+        "proofs": [
+          "/components/com_sppagebuilder/assets/css/font-awesome-5.min.css",
+          "/components/com_sppagebuilder/assets/css/font-awesome-v4-shims.css",
+          "/templates/travus/css/font-awesome.min.css"
+        ]
+      },
+      {
+        "technology": "Bootstrap",
+        "category": "UI Framework",
+        "proofs": [
+          "/templates/travus/css/bootstrap.min.css"
+        ]
+      }
+    ]
+  },
+  {
     "domain": "https://1planettechnologies.weebly.com",
-    "date": "2026-09-15T11:56:44.978Z",
+    "date": "2026-09-15T13:08:43.855Z",
     "detectedTechnologies": [
       {
         "technology": "Cloudflare",
@@ -1204,8 +2968,14 @@
     ]
   },
   {
+    "domain": "https://soziale-dreigliederung.de",
+    "status": "error",
+    "error": "unable to verify the first certificate",
+    "technologies": []
+  },
+  {
     "domain": "https://premierhomeremodeling.net",
-    "date": "2026-09-15T11:56:45.855Z",
+    "date": "2026-09-15T13:08:44.858Z",
     "detectedTechnologies": [
       {
         "technology": "Nginx",
@@ -1234,14 +3004,78 @@
     ]
   },
   {
+    "domain": "https://bas-ingenieria.cl",
+    "date": "2026-09-15T13:08:45.449Z",
+    "detectedTechnologies": [
+      {
+        "technology": "Apache",
+        "category": "Web Server",
+        "proofs": [
+          "Header 'server' has value: Apache"
+        ]
+      },
+      {
+        "technology": "Bootstrap",
+        "category": "UI Framework",
+        "proofs": [
+          "assets/vendor/bootstrap/css/bootstrap.min.css",
+          "assets/vendor/bootstrap-icons/bootstrap-icons.css"
+        ]
+      },
+      {
+        "technology": "FontAwesome",
+        "category": "Icon Font",
+        "proofs": [
+          "assets/vendor/fontawesome-free/css/all.min.css"
+        ]
+      }
+    ]
+  },
+  {
     "domain": "https://produkttheater.de",
     "status": "error",
     "error": "Hostname/IP does not match certificate's altnames: Host: produkttheater.de. is not in the cert's altnames: DNS:*.goserver.host, DNS:goserver.host",
     "technologies": []
   },
   {
+    "domain": "https://unnames.com",
+    "date": "2026-09-15T13:08:45.880Z",
+    "detectedTechnologies": [
+      {
+        "technology": "Cloudflare",
+        "category": "CDN & Security",
+        "proofs": [
+          "Header 'server' has value: cloudflare"
+        ]
+      },
+      {
+        "technology": "Shopify",
+        "category": "Ecommerce Platform",
+        "proofs": [
+          "Header 'powered-by' has value: Shopify"
+        ]
+      },
+      {
+        "technology": "Shopify Scripts",
+        "category": "Ecommerce Platform",
+        "proofs": [
+          "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/loader.init-shop-cart-sync.ja.esm.js",
+          "//cdn.shopify.com/shopifycloud/storefront/assets/storefront/origin_trials-5059b83f.js",
+          "https://cdn.shopify.com/storefront/standard-actions.js"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "JavaScript Library",
+        "proofs": [
+          "https://code.jquery.com/jquery-3.6.0.min.js"
+        ]
+      }
+    ]
+  },
+  {
     "domain": "https://handycars.com",
-    "date": "2026-09-15T11:56:47.035Z",
+    "date": "2026-09-15T13:08:46.961Z",
     "detectedTechnologies": [
       {
         "technology": "Nginx",
@@ -1283,8 +3117,14 @@
     ]
   },
   {
+    "domain": "https://antikebau.de",
+    "status": "error",
+    "error": "Request failed with status code 500",
+    "technologies": []
+  },
+  {
     "domain": "https://3strandschurch.org",
-    "date": "2026-09-15T11:56:47.412Z",
+    "date": "2026-09-15T13:08:47.498Z",
     "detectedTechnologies": [
       {
         "technology": "Cloudflare",
@@ -1333,8 +3173,65 @@
     ]
   },
   {
+    "domain": "https://alabamabuildingcontractor.com",
+    "date": "2026-09-15T13:08:50.047Z",
+    "detectedTechnologies": [
+      {
+        "technology": "Cloudflare",
+        "category": "CDN & Security",
+        "proofs": [
+          "Header 'server' has value: cloudflare"
+        ]
+      },
+      {
+        "technology": "PHP",
+        "category": "Programming Language",
+        "proofs": [
+          "Header 'x-powered-by' has value: PHP/8.3.33, PleskLin"
+        ]
+      },
+      {
+        "technology": "WordPress Resources",
+        "category": "CMS",
+        "proofs": [
+          "https://www.alabamabuildingcontractor.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "https://www.alabamabuildingcontractor.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+          "https://www.alabamabuildingcontractor.com/wp-content/themes/Divi/js/scripts.min.js?ver=4.22.2",
+          "https://www.alabamabuildingcontractor.com/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/jquery.fitvids.js?ver=4.22.2",
+          "https://www.alabamabuildingcontractor.com/wp-includes/js/comment-reply.min.js?ver=7.1",
+          "https://www.alabamabuildingcontractor.com/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/jquery.mobile.js?ver=4.22.2",
+          "https://www.alabamabuildingcontractor.com/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/magnific-popup.js?ver=4.22.2",
+          "https://www.alabamabuildingcontractor.com/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/easypiechart.js?ver=4.22.2",
+          "https://www.alabamabuildingcontractor.com/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/salvattore.js?ver=4.22.2",
+          "https://www.alabamabuildingcontractor.com/wp-content/themes/Divi/core/admin/js/common.js?ver=4.22.2",
+          "https://www.alabamabuildingcontractor.com/wp-includes/js/hoverIntent.min.js?ver=1.10.2",
+          "https://www.alabamabuildingcontractor.com/wp-content/plugins/megamenu/js/maxmegamenu.js?ver=3.4.1",
+          "https://www.alabamabuildingcontractor.com/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/motion-effects.js?ver=4.22.2",
+          "https://www.alabamabuildingcontractor.com/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/sticky-elements.js?ver=4.22.2"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "JavaScript Library",
+        "proofs": [
+          "https://www.alabamabuildingcontractor.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "https://www.alabamabuildingcontractor.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+          "https://www.alabamabuildingcontractor.com/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/jquery.fitvids.js?ver=4.22.2",
+          "https://www.alabamabuildingcontractor.com/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/jquery.mobile.js?ver=4.22.2"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "CMS",
+        "proofs": [
+          "WordPress 7.1"
+        ]
+      }
+    ]
+  },
+  {
     "domain": "https://resourceservicesolutions.com",
-    "date": "2026-09-15T11:56:48.244Z",
+    "date": "2026-09-15T13:08:51.078Z",
     "detectedTechnologies": [
       {
         "technology": "Apache",
@@ -1354,8 +3251,122 @@
     ]
   },
   {
+    "domain": "https://skywardspeech.com.au",
+    "date": "2026-09-15T13:08:55.550Z",
+    "detectedTechnologies": [
+      {
+        "technology": "Apache",
+        "category": "Web Server",
+        "proofs": [
+          "Header 'server' has value: Apache"
+        ]
+      },
+      {
+        "technology": "WordPress Resources",
+        "category": "CMS",
+        "proofs": [
+          "https://www.skywardspeech.com.au/wp-includes/js/jquery/jquery.min.js",
+          "https://www.skywardspeech.com.au/wp-includes/js/jquery/jquery-migrate.min.js",
+          "https://www.skywardspeech.com.au/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js",
+          "https://www.skywardspeech.com.au/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js",
+          "https://www.skywardspeech.com.au/wp-includes/js/imagesloaded.min.js",
+          "https://www.skywardspeech.com.au/wp-includes/js/masonry.min.js",
+          "https://www.skywardspeech.com.au/wp-content/uploads/siteground-optimizer-assets/swv.min.js",
+          "https://www.skywardspeech.com.au/wp-content/uploads/siteground-optimizer-assets/contact-form-7.min.js",
+          "https://www.skywardspeech.com.au/wp-content/plugins/insta-gallery/assets/frontend/swiper/swiper.min.js",
+          "https://www.skywardspeech.com.au/wp-content/plugins/fusion-builder/assets/js/min/library/gsap.js",
+          "https://www.skywardspeech.com.au/wp-content/plugins/fusion-builder/assets/js/min/library/ScrollTrigger.js",
+          "https://www.skywardspeech.com.au/wp-content/plugins/fusion-builder/assets/js/min/library/SplitType.js",
+          "https://www.skywardspeech.com.au/wp-content/themes/Avada/includes/lib/assets/min/js/general/awb-tabs-widget.js",
+          "https://www.skywardspeech.com.au/wp-content/themes/Avada/includes/lib/assets/min/js/general/awb-vertical-menu-widget.js",
+          "https://www.skywardspeech.com.au/wp-content/themes/Avada/includes/lib/assets/min/js/library/cssua.js",
+          "https://www.skywardspeech.com.au/wp-content/themes/Avada/includes/lib/assets/min/js/library/modernizr.js",
+          "https://www.skywardspeech.com.au/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion.js",
+          "https://www.skywardspeech.com.au/wp-content/themes/Avada/includes/lib/assets/min/js/library/swiper.js",
+          "https://www.skywardspeech.com.au/wp-content/themes/Avada/includes/lib/assets/min/js/library/bootstrap.transition.js",
+          "https://www.skywardspeech.com.au/wp-content/themes/Avada/includes/lib/assets/min/js/library/bootstrap.tooltip.js",
+          "https://www.skywardspeech.com.au/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.requestAnimationFrame.js",
+          "https://www.skywardspeech.com.au/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.easing.js",
+          "https://www.skywardspeech.com.au/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.fitvids.js",
+          "https://www.skywardspeech.com.au/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.flexslider.js",
+          "https://www.skywardspeech.com.au/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.ilightbox.js",
+          "https://www.skywardspeech.com.au/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.mousewheel.js",
+          "https://www.skywardspeech.com.au/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.fade.js",
+          "https://www.skywardspeech.com.au/wp-content/themes/Avada/includes/lib/assets/min/js/library/imagesLoaded.js",
+          "https://www.skywardspeech.com.au/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-equal-heights.js",
+          "https://www.skywardspeech.com.au/wp-content/themes/Avada/includes/lib/assets/min/js/library/fusion-parallax.js",
+          "https://www.skywardspeech.com.au/wp-content/themes/Avada/includes/lib/assets/min/js/library/fusion-video-general.js",
+          "https://www.skywardspeech.com.au/wp-content/themes/Avada/includes/lib/assets/min/js/library/fusion-video-bg.js",
+          "https://www.skywardspeech.com.au/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-lightbox.js",
+          "https://www.skywardspeech.com.au/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-tooltip.js",
+          "https://www.skywardspeech.com.au/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-sharing-box.js",
+          "https://www.skywardspeech.com.au/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.sticky-kit.js",
+          "https://www.skywardspeech.com.au/wp-content/themes/Avada/includes/lib/assets/min/js/library/fusion-youtube.js",
+          "https://www.skywardspeech.com.au/wp-content/themes/Avada/includes/lib/assets/min/js/library/vimeoPlayer.js",
+          "https://www.skywardspeech.com.au/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-general-global.js",
+          "https://www.skywardspeech.com.au/wp-content/themes/Avada/assets/min/js/general/avada-general-footer.js",
+          "https://www.skywardspeech.com.au/wp-content/themes/Avada/assets/min/js/general/avada-quantity.js",
+          "https://www.skywardspeech.com.au/wp-content/themes/Avada/assets/min/js/general/avada-crossfade-images.js",
+          "https://www.skywardspeech.com.au/wp-content/themes/Avada/assets/min/js/general/avada-select.js",
+          "https://www.skywardspeech.com.au/wp-content/themes/Avada/assets/min/js/general/avada-rev-styles.js",
+          "https://www.skywardspeech.com.au/wp-content/themes/Avada/assets/min/js/general/avada-contact-form-7.js",
+          "https://www.skywardspeech.com.au/wp-content/themes/Avada/assets/min/js/general/avada-live-search.js",
+          "https://www.skywardspeech.com.au/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-alert.js",
+          "https://www.skywardspeech.com.au/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-flexslider.js",
+          "https://www.skywardspeech.com.au/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-animations.js",
+          "https://www.skywardspeech.com.au/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-column-legacy.js",
+          "https://www.skywardspeech.com.au/wp-content/plugins/fusion-builder/assets/js/min/library/jquery.textillate.js",
+          "https://www.skywardspeech.com.au/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-title.js",
+          "https://www.skywardspeech.com.au/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-button.js",
+          "https://www.skywardspeech.com.au/wp-content/plugins/fusion-builder/assets/js/min/general/awb-background-slider.js",
+          "https://www.skywardspeech.com.au/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-container.js",
+          "https://www.skywardspeech.com.au/wp-content/themes/Avada/assets/min/js/library/jquery.elasticslider.js",
+          "https://www.skywardspeech.com.au/wp-content/themes/Avada/assets/min/js/general/avada-elastic-slider.js",
+          "https://www.skywardspeech.com.au/wp-content/themes/Avada/assets/min/js/general/avada-drop-down.js",
+          "https://www.skywardspeech.com.au/wp-content/themes/Avada/assets/min/js/general/avada-to-top.js",
+          "https://www.skywardspeech.com.au/wp-content/themes/Avada/assets/min/js/general/avada-header.js",
+          "https://www.skywardspeech.com.au/wp-content/themes/Avada/assets/min/js/general/avada-menu.js",
+          "https://www.skywardspeech.com.au/wp-content/themes/Avada/assets/min/js/library/bootstrap.scrollspy.js",
+          "https://www.skywardspeech.com.au/wp-content/themes/Avada/assets/min/js/general/avada-scrollspy.js",
+          "https://www.skywardspeech.com.au/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-responsive-typography.js",
+          "https://www.skywardspeech.com.au/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-scroll-to-anchor.js",
+          "https://www.skywardspeech.com.au/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-video.js",
+          "https://www.skywardspeech.com.au/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-column.js"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "JavaScript Library",
+        "proofs": [
+          "https://www.skywardspeech.com.au/wp-includes/js/jquery/jquery.min.js",
+          "https://www.skywardspeech.com.au/wp-includes/js/jquery/jquery-migrate.min.js",
+          "https://www.skywardspeech.com.au/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js",
+          "https://www.skywardspeech.com.au/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js",
+          "https://www.skywardspeech.com.au/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.requestAnimationFrame.js",
+          "https://www.skywardspeech.com.au/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.easing.js",
+          "https://www.skywardspeech.com.au/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.fitvids.js",
+          "https://www.skywardspeech.com.au/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.flexslider.js",
+          "https://www.skywardspeech.com.au/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.ilightbox.js",
+          "https://www.skywardspeech.com.au/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.mousewheel.js",
+          "https://www.skywardspeech.com.au/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.fade.js",
+          "https://www.skywardspeech.com.au/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.sticky-kit.js",
+          "https://www.skywardspeech.com.au/wp-content/plugins/fusion-builder/assets/js/min/library/jquery.textillate.js",
+          "https://www.skywardspeech.com.au/wp-content/themes/Avada/assets/min/js/library/jquery.elasticslider.js"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "CMS",
+        "proofs": [
+          "WordPress 6.4.10",
+          "Powered by Slider Revolution 5.4.8.3 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface."
+        ]
+      }
+    ]
+  },
+  {
     "domain": "https://sevecoitalia.com",
-    "date": "2026-09-15T11:56:48.876Z",
+    "date": "2026-09-15T13:08:56.643Z",
     "detectedTechnologies": [
       {
         "technology": "ASP.NET",
@@ -1375,14 +3386,66 @@
     ]
   },
   {
+    "domain": "https://nielsbirk.dk",
+    "date": "2026-09-15T13:08:57.332Z",
+    "detectedTechnologies": [
+      {
+        "technology": "Nginx",
+        "category": "Web Server",
+        "proofs": [
+          "Header 'server' has value: nginx"
+        ]
+      }
+    ]
+  },
+  {
     "domain": "https://branson-connection.com",
     "status": "error",
     "error": "unable to get local issuer certificate",
     "technologies": []
   },
   {
+    "domain": "https://phucankhanggroup.com",
+    "date": "2026-09-15T13:09:00.551Z",
+    "detectedTechnologies": [
+      {
+        "technology": "jQuery",
+        "category": "JavaScript Library",
+        "proofs": [
+          "../JS/jquery.min.js",
+          "../JS/jquery.pixelentity.shiner.min.js",
+          "../JS/jquery.fancybox.js",
+          "../JS/jquery.sticky-kit.min.js",
+          "../Lib/count/jquery.counterup.min.js"
+        ]
+      },
+      {
+        "technology": "Google Tag Manager",
+        "category": "Analytics & Tracking",
+        "proofs": [
+          "https://www.googletagmanager.com/gtag/js?id=G-GYD4T4CEQ4",
+          "https://www.googletagmanager.com/gtag/js?id=G-JPZG5XM9Y3"
+        ]
+      },
+      {
+        "technology": "Meta Pixel",
+        "category": "Advertising & Marketing",
+        "proofs": [
+          "https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v21.0"
+        ]
+      },
+      {
+        "technology": "FontAwesome",
+        "category": "Icon Font",
+        "proofs": [
+          "assets/Font-Awesome/fontawesome-free-6.0.0-web/css/all.css"
+        ]
+      }
+    ]
+  },
+  {
     "domain": "https://roccofortehotels.cn",
-    "date": "2026-09-15T11:56:49.731Z",
+    "date": "2026-09-15T13:09:01.672Z",
     "detectedTechnologies": [
       {
         "technology": "jQuery",
@@ -1396,8 +3459,14 @@
     ]
   },
   {
+    "domain": "https://everhartsoutdoor.com",
+    "status": "error",
+    "error": "Hostname/IP does not match certificate's altnames: Host: www.everhartsoutdoor.com. is not in the cert's altnames: DNS:ammoready.cervellesoftware.com, DNS:shop.bigofirearms.com, DNS:shop.ontargettraining.us, DNS:shop.republicgunclub.com, DNS:shop.superiorpawn.com, DNS:ssl.zeta-gunstore.com, DNS:store.wjsguns.com, DNS:www.4karmory.com, DNS:www.ammo2burn.com, DNS:www.ammodepottx.com, DNS:www.armaluxdefenseco.com, DNS:www.atlantagundepot.com, DNS:www.atlgunguru.com, DNS:www.billysgunsandammo.com, DNS:www.bmmfg.us, DNS:www.churchillarmory.com, DNS:www.copperheadprecision.com, DNS:www.dsgunworkswv.com, DNS:www.five0inc.com, DNS:www.flintlakefirearms.com, DNS:www.forrestfirearmsllc.com, DNS:www.gunshub.com, DNS:www.ingersolloutdoorsupply.com, DNS:www.knaaccessories.com, DNS:www.littlesportsmanshop.com, DNS:www.lonebucktactical.com, DNS:www.magnoliaarmory.com, DNS:www.mitactical.com, DNS:www.moaammunition.com, DNS:www.montanatactical.com, DNS:www.morefirearms.me, DNS:www.netcfirearms.com, DNS:www.northcountryguns.com, DNS:www.northwestarmslv.com, DNS:www.ontargetcustomshop.com, DNS:www.rackonearms.com, DNS:www.rawlinsgun.com, DNS:www.roguegunworks.com, DNS:www.rusharmory.com, DNS:www.sainttactical.com, DNS:www.secondoften.com, DNS:www.skywaydefense.com, DNS:www.smalltowntactical.com, DNS:www.snakecreekss.com, DNS:www.thebuffalotradingcompany.com, DNS:www.topguns.us, DNS:www.unit11armory.com, DNS:www.victoriaallsports.com",
+    "technologies": []
+  },
+  {
     "domain": "https://europeaninns.com",
-    "date": "2026-09-15T11:56:50.186Z",
+    "date": "2026-09-15T13:09:03.092Z",
     "detectedTechnologies": [
       {
         "technology": "Apache",
@@ -1409,13 +3478,33 @@
     ]
   },
   {
+    "domain": "https://massageforworldpeace.com",
+    "date": "2026-09-15T13:09:04.149Z",
+    "detectedTechnologies": [
+      {
+        "technology": "Apache",
+        "category": "Web Server",
+        "proofs": [
+          "Header 'server' has value: Apache"
+        ]
+      }
+    ]
+  },
+  {
     "domain": "https://cultivateventures.co.nz",
-    "date": "2026-09-15T11:56:53.027Z",
-    "detectedTechnologies": []
+    "status": "error",
+    "error": "timeout of 8000ms exceeded",
+    "technologies": []
+  },
+  {
+    "domain": "https://amaronbattery.in",
+    "status": "error",
+    "error": "Hostname/IP does not match certificate's altnames: Host: amaronbattery.in. is not in the cert's altnames: DNS:*.web-hosting.com, DNS:web-hosting.com",
+    "technologies": []
   },
   {
     "domain": "https://radxmobile.com",
-    "date": "2026-09-15T11:56:54.240Z",
+    "date": "2026-09-15T13:09:13.257Z",
     "detectedTechnologies": [
       {
         "technology": "Cloudflare",
@@ -1441,8 +3530,21 @@
     ]
   },
   {
+    "domain": "https://2-com.net",
+    "date": "2026-09-15T13:09:13.842Z",
+    "detectedTechnologies": [
+      {
+        "technology": "Google Tag Manager",
+        "category": "Analytics & Tracking",
+        "proofs": [
+          "https://www.googletagmanager.com/gtag/js?id=G-TY0XG5MCQR"
+        ]
+      }
+    ]
+  },
+  {
     "domain": "https://3bsexcavating.com",
-    "date": "2026-09-15T11:56:54.818Z",
+    "date": "2026-09-15T13:09:14.191Z",
     "detectedTechnologies": [
       {
         "technology": "Cloudflare",
@@ -1460,8 +3562,13 @@
           "https://3bsexcavating.com/wp-content/themes/Divi/js/scripts.min.js?ver=4.17.6",
           "https://3bsexcavating.com/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/jquery.fitvids.js?ver=4.17.6",
           "https://3bsexcavating.com/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/jquery.mobile.js?ver=4.17.6",
+          "https://3bsexcavating.com/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/magnific-popup.js?ver=4.17.6",
+          "https://3bsexcavating.com/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/easypiechart.js?ver=4.17.6",
+          "https://3bsexcavating.com/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/salvattore.js?ver=4.17.6",
           "https://3bsexcavating.com/wp-content/themes/Divi/core/admin/js/common.js?ver=4.17.6",
-          "https://3bsexcavating.com/wp-content/plugins/wp-smush-pro/app/assets/js/smush-lazy-load.min.js?ver=3.18.1"
+          "https://3bsexcavating.com/wp-content/plugins/wp-smush-pro/app/assets/js/smush-lazy-load.min.js?ver=3.18.1",
+          "https://3bsexcavating.com/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/motion-effects.js?ver=4.17.6",
+          "https://3bsexcavating.com/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/sticky-elements.js?ver=4.17.6"
         ]
       },
       {
@@ -1477,8 +3584,14 @@
     ]
   },
   {
+    "domain": "https://weissbauchpapageien.de",
+    "status": "error",
+    "error": "Request failed with status code 403",
+    "technologies": []
+  },
+  {
     "domain": "https://959marine.com",
-    "date": "2026-09-15T11:56:55.479Z",
+    "date": "2026-09-15T13:09:15.151Z",
     "detectedTechnologies": [
       {
         "technology": "Cloudflare",
@@ -1497,8 +3610,13 @@
     ]
   },
   {
+    "domain": "https://hansis-knusperhendl-foodtruck.eatbu.com",
+    "date": "2026-09-15T13:09:15.623Z",
+    "detectedTechnologies": []
+  },
+  {
     "domain": "https://broganlmt.com",
-    "date": "2026-09-15T11:56:56.248Z",
+    "date": "2026-09-15T13:09:16.302Z",
     "detectedTechnologies": [
       {
         "technology": "Cloudflare",
@@ -1524,8 +3642,14 @@
     ]
   },
   {
+    "domain": "https://juanmunozhomesmart.com",
+    "status": "error",
+    "error": "Request failed with status code 403",
+    "technologies": []
+  },
+  {
     "domain": "https://buchhaltungsservice-koenig.de",
-    "date": "2026-09-15T11:57:00.086Z",
+    "date": "2026-09-15T13:09:20.798Z",
     "detectedTechnologies": [
       {
         "technology": "Apache",
@@ -1576,8 +3700,80 @@
     ]
   },
   {
+    "domain": "https://solvos.nl",
+    "date": "2026-09-15T13:09:21.318Z",
+    "detectedTechnologies": [
+      {
+        "technology": "WordPress Resources",
+        "category": "CMS",
+        "proofs": [
+          "https://www.solvos.nl/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "https://www.solvos.nl/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+          "https://www.solvos.nl/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=4.2.4",
+          "https://www.solvos.nl/wp-content/plugins/honeypot/includes/js/wpa.js?ver=2.4.02",
+          "https://www.solvos.nl/wp-content/themes/hello-elementor/assets/js/hello-frontend.js?ver=3.5.1",
+          "https://www.solvos.nl/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1",
+          "https://www.solvos.nl/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=4.2.3",
+          "https://www.solvos.nl/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.2.4",
+          "https://www.solvos.nl/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.2.4",
+          "https://www.solvos.nl/wp-includes/js/jquery/ui/core.min.js?ver=1.14.2",
+          "https://www.solvos.nl/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.2.4",
+          "https://www.solvos.nl/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widgets/core.js?ver=4.0.3",
+          "https://www.solvos.nl/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widgets/nav-menu.js?ver=4.0.3",
+          "https://www.solvos.nl/wp-content/plugins/elementskit-lite/assets/libs/magnific-popup/jquery.magnific-popup.min.js?ver=4.0.3",
+          "https://www.solvos.nl/wp-content/plugins/elementskit-lite/widgets/init/assets/js/nav-menu.js?ver=4.0.3",
+          "https://www.solvos.nl/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widgets/header-search.js?ver=4.0.3",
+          "https://www.solvos.nl/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widgets/header-offcanvas.js?ver=4.0.3",
+          "https://www.solvos.nl/wp-content/plugins/complianz-gdpr/cookiebanner/js/complianz.min.js?ver=1788779460",
+          "https://www.solvos.nl/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.17",
+          "https://www.solvos.nl/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=7.1",
+          "https://www.solvos.nl/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=7.1",
+          "https://www.solvos.nl/wp-includes/js/mediaelement/renderers/vimeo.min.js?ver=4.2.17",
+          "https://www.solvos.nl/wp-content/plugins/jet-elements/assets/js/lib/tweenjs/tweenjs.min.js?ver=2.0.2",
+          "https://www.solvos.nl/wp-content/plugins/jet-elements/assets/js/jet-elements.min.js?ver=2.9.2.1",
+          "https://www.solvos.nl/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=4.2.3",
+          "https://www.solvos.nl/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255",
+          "https://www.solvos.nl/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216",
+          "https://www.solvos.nl/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=4.2.3",
+          "https://www.solvos.nl/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=4.2.3",
+          "https://www.solvos.nl/wp-content/plugins/jet-blocks/assets/js/lib/jsticky/jquery.jsticky.min.js?ver=1.1.0",
+          "https://www.solvos.nl/wp-content/plugins/jet-blocks/assets/js/jet-blocks.min.js?ver=1.5.1",
+          "https://www.solvos.nl/wp-content/plugins/jet-tabs/assets/js/jet-tabs-frontend.min.js?ver=2.3.3"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "JavaScript Library",
+        "proofs": [
+          "https://www.solvos.nl/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "https://www.solvos.nl/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+          "https://www.solvos.nl/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1",
+          "https://www.solvos.nl/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=4.2.3",
+          "https://www.solvos.nl/wp-includes/js/jquery/ui/core.min.js?ver=1.14.2",
+          "https://www.solvos.nl/wp-content/plugins/elementskit-lite/assets/libs/magnific-popup/jquery.magnific-popup.min.js?ver=4.0.3",
+          "https://www.solvos.nl/wp-content/plugins/jet-blocks/assets/js/lib/jsticky/jquery.jsticky.min.js?ver=1.1.0"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "CMS",
+        "proofs": [
+          "WordPress 7.1"
+        ]
+      },
+      {
+        "technology": "FontAwesome",
+        "category": "Icon Font",
+        "proofs": [
+          "https://www.solvos.nl/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=4.2.4",
+          "https://www.solvos.nl/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=4.2.4"
+        ]
+      }
+    ]
+  },
+  {
     "domain": "https://261welfarefund.com",
-    "date": "2026-09-15T11:57:01.108Z",
+    "date": "2026-09-15T13:09:22.012Z",
     "detectedTechnologies": [
       {
         "technology": "Cloudflare",
@@ -1604,14 +3800,66 @@
     ]
   },
   {
+    "domain": "https://costa-coffee.be",
+    "status": "error",
+    "error": "timeout of 8000ms exceeded",
+    "technologies": []
+  },
+  {
     "domain": "https://startravelcompany.com",
     "status": "error",
     "error": "timeout of 8000ms exceeded",
     "technologies": []
   },
   {
+    "domain": "https://disinfestazioniepiscine.it",
+    "date": "2026-09-15T13:09:44.102Z",
+    "detectedTechnologies": [
+      {
+        "technology": "Nginx",
+        "category": "Web Server",
+        "proofs": [
+          "Header 'server' has value: nginx"
+        ]
+      },
+      {
+        "technology": "WordPress Resources",
+        "category": "CMS",
+        "proofs": [
+          "https://www.disinfestazioniepiscine.it/wp-includes/js/dist/hooks.min.js?ver=dd5603f07f9220ed27f1",
+          "https://www.disinfestazioniepiscine.it/wp-includes/js/dist/i18n.min.js?ver=c26c3dc7bed366793375",
+          "https://www.disinfestazioniepiscine.it/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.5",
+          "https://www.disinfestazioniepiscine.it/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.5",
+          "https://www.disinfestazioniepiscine.it/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "https://www.disinfestazioniepiscine.it/wp-content/themes/Zephyr/common/js/base/passive-events.min.js?ver=8.44",
+          "https://www.disinfestazioniepiscine.it/wp-content/themes/Zephyr/common/js/vendor/magnific-popup.js?ver=8.44",
+          "https://www.disinfestazioniepiscine.it/wp-content/themes/Zephyr/common/js/base/header.no-cache.min.js?ver=8.44",
+          "https://www.disinfestazioniepiscine.it/wp-content/uploads/us-assets/www.disinfestazioniepiscine.it.js?ver=2876bbf2",
+          "https://www.disinfestazioniepiscine.it/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0",
+          "https://www.disinfestazioniepiscine.it/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.5",
+          "https://www.disinfestazioniepiscine.it/wp-content/themes/Zephyr/common/js/vendor/owl.carousel.js?ver=8.44"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "JavaScript Library",
+        "proofs": [
+          "https://www.disinfestazioniepiscine.it/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "CMS",
+        "proofs": [
+          "WordPress 6.9.7",
+          "Powered by WPBakery Page Builder - drag and drop page builder for WordPress."
+        ]
+      }
+    ]
+  },
+  {
     "domain": "https://lscms.org",
-    "date": "2026-09-15T11:57:10.725Z",
+    "date": "2026-09-15T13:09:45.053Z",
     "detectedTechnologies": [
       {
         "technology": "Apache",
@@ -1690,14 +3938,69 @@
     ]
   },
   {
+    "domain": "https://3dwealthadvisory.com",
+    "date": "2026-09-15T13:09:45.201Z",
+    "detectedTechnologies": [
+      {
+        "technology": "Cloudflare",
+        "category": "CDN & Security",
+        "proofs": [
+          "Header 'server' has value: cloudflare"
+        ]
+      },
+      {
+        "technology": "WordPress Resources",
+        "category": "CMS",
+        "proofs": [
+          "https://3dwealthadvisory.com/wp-content/plugins/coblocks/dist/js/coblocks-animation.js?ver=3.1.17",
+          "https://3dwealthadvisory.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "https://3dwealthadvisory.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+          "https://3dwealthadvisory.com/wp-content/themes/Divi/js/scripts.min.js?ver=4.27.8",
+          "https://3dwealthadvisory.com/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/jquery.fitvids.js?ver=4.27.8",
+          "https://3dwealthadvisory.com/wp-content/themes/Divi/core/admin/js/common.js?ver=4.27.8",
+          "https://3dwealthadvisory.com/wp-content/plugins/transition-slider-lite/js/lib/three.min.js?ver=2.20.3",
+          "https://3dwealthadvisory.com/wp-content/plugins/transition-slider-lite/js/lib/swiper.min.js?ver=2.20.3",
+          "https://3dwealthadvisory.com/wp-content/plugins/transition-slider-lite/js/lib/anime.min.js?ver=2.20.3",
+          "https://3dwealthadvisory.com/wp-content/plugins/transition-slider-lite/js/lib/webfontloader.js?ver=2.20.3",
+          "https://3dwealthadvisory.com/wp-content/plugins/transition-slider-lite/js/lib/iconify.min.js?ver=2.20.3",
+          "https://3dwealthadvisory.com/wp-content/plugins/transition-slider-lite/js/build/transitionSlider.min.js?ver=2.20.3",
+          "https://3dwealthadvisory.com/wp-content/plugins/transition-slider-lite/js/build/transitionSlider.webgl.min.js?ver=2.20.3",
+          "https://3dwealthadvisory.com/wp-content/plugins/transition-slider-lite/js/embed.js?ver=2.20.3"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "JavaScript Library",
+        "proofs": [
+          "https://3dwealthadvisory.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "https://3dwealthadvisory.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+          "https://3dwealthadvisory.com/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/jquery.fitvids.js?ver=4.27.8"
+        ]
+      },
+      {
+        "technology": "FontAwesome",
+        "category": "Icon Font",
+        "proofs": [
+          "https://use.fontawesome.com/releases/v5.8.2/css/all.css?ver=2.20.3"
+        ]
+      }
+    ]
+  },
+  {
     "domain": "https://jackwills.com",
     "status": "error",
     "error": "timeout of 8000ms exceeded",
     "technologies": []
   },
   {
+    "domain": "https://nevsproductions.com",
+    "status": "error",
+    "error": "Hostname/IP does not match certificate's altnames: Host: www.nevsproductions.com. is not in the cert's altnames: DNS:*.odoo.com, DNS:odoo.com",
+    "technologies": []
+  },
+  {
     "domain": "https://kande-hoikuen.ed.jp",
-    "date": "2026-09-15T11:57:20.574Z",
+    "date": "2026-09-15T13:09:55.181Z",
     "detectedTechnologies": [
       {
         "technology": "Nginx",
@@ -1717,14 +4020,48 @@
     ]
   },
   {
+    "domain": "https://orifoodsco.com",
+    "status": "error",
+    "error": "timeout of 8000ms exceeded",
+    "technologies": []
+  },
+  {
     "domain": "https://deerfieldbeachautomall.com",
     "status": "error",
     "error": "Request failed with status code 403",
     "technologies": []
   },
   {
+    "domain": "https://insieme.stanford.edu",
+    "date": "2026-09-15T13:10:04.709Z",
+    "detectedTechnologies": [
+      {
+        "technology": "Google Tag Manager",
+        "category": "Analytics & Tracking",
+        "proofs": [
+          "https://www.googletagmanager.com/gtag/js?id=G-986R8TE788"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "JavaScript Library",
+        "proofs": [
+          "/core/assets/vendor/jquery/jquery.min.js?v=4.0.0"
+        ]
+      },
+      {
+        "technology": "FontAwesome",
+        "category": "Icon Font",
+        "proofs": [
+          "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css",
+          "https://use.fontawesome.com/releases/v5.13.1/css/v4-shims.css"
+        ]
+      }
+    ]
+  },
+  {
     "domain": "https://layer7innovations.ca",
-    "date": "2026-09-15T11:57:22.007Z",
+    "date": "2026-09-15T13:10:05.402Z",
     "detectedTechnologies": [
       {
         "technology": "Cloudflare",
@@ -1750,8 +4087,13 @@
     ]
   },
   {
+    "domain": "https://makpharma-eg.com",
+    "date": "2026-09-15T13:10:05.769Z",
+    "detectedTechnologies": []
+  },
+  {
     "domain": "https://ejc-courtage-assurances.fr",
-    "date": "2026-09-15T11:57:22.429Z",
+    "date": "2026-09-15T13:10:06.235Z",
     "detectedTechnologies": [
       {
         "technology": "Apache",
@@ -1778,8 +4120,74 @@
     ]
   },
   {
+    "domain": "https://ferrateoxidant.com",
+    "date": "2026-09-15T13:10:08.445Z",
+    "detectedTechnologies": [
+      {
+        "technology": "Apache",
+        "category": "Web Server",
+        "proofs": [
+          "Header 'server' has value: Apache"
+        ]
+      },
+      {
+        "technology": "WordPress Resources",
+        "category": "CMS",
+        "proofs": [
+          "https://ferrateoxidant.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.9.6",
+          "https://ferrateoxidant.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.9.6",
+          "https://ferrateoxidant.com/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=3.0.0",
+          "https://ferrateoxidant.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "https://ferrateoxidant.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+          "https://ferrateoxidant.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.22.1",
+          "https://ferrateoxidant.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1",
+          "https://ferrateoxidant.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.22.1",
+          "https://ferrateoxidant.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.22.3",
+          "https://ferrateoxidant.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.22.3",
+          "https://ferrateoxidant.com/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2",
+          "https://ferrateoxidant.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0",
+          "https://ferrateoxidant.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0",
+          "https://ferrateoxidant.com/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1",
+          "https://ferrateoxidant.com/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef",
+          "https://ferrateoxidant.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.22.1",
+          "https://ferrateoxidant.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2",
+          "https://ferrateoxidant.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2",
+          "https://ferrateoxidant.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.22.3",
+          "https://ferrateoxidant.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.22.1"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "JavaScript Library",
+        "proofs": [
+          "https://ferrateoxidant.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "https://ferrateoxidant.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+          "https://ferrateoxidant.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.22.1",
+          "https://ferrateoxidant.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1",
+          "https://ferrateoxidant.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "CMS",
+        "proofs": [
+          "WordPress 6.4.10"
+        ]
+      },
+      {
+        "technology": "FontAwesome",
+        "category": "Icon Font",
+        "proofs": [
+          "https://ferrateoxidant.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3",
+          "https://ferrateoxidant.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3",
+          "https://ferrateoxidant.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3"
+        ]
+      }
+    ]
+  },
+  {
     "domain": "https://oakwell.vet",
-    "date": "2026-09-15T11:57:24.577Z",
+    "date": "2026-09-15T13:10:10.277Z",
     "detectedTechnologies": [
       {
         "technology": "Nginx",
@@ -1833,15 +4241,106 @@
     ]
   },
   {
+    "domain": "https://mysterion.hr",
+    "date": "2026-09-15T13:10:11.069Z",
+    "detectedTechnologies": [
+      {
+        "technology": "Cloudflare",
+        "category": "CDN & Security",
+        "proofs": [
+          "Header 'server' has value: cloudflare"
+        ]
+      },
+      {
+        "technology": "WordPress Resources",
+        "category": "CMS",
+        "proofs": [
+          "https://mysterion.hr/wp-includes/js/jquery/jquery.js?ver=1.12.4",
+          "https://mysterion.hr/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1",
+          "https://mysterion.hr/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.6.3.1",
+          "https://mysterion.hr/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.6.3.1",
+          "https://mysterion.hr/wp-content/plugins/wp-user-avatar/assets/flatpickr/flatpickr.min.js?ver=5.0.22",
+          "https://mysterion.hr/wp-content/plugins/wp-user-avatar/assets/select2/select2.min.js?ver=5.0.22",
+          "https://mysterion.hr/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.9",
+          "https://mysterion.hr/wp-content/plugins/wp-user-avatar/assets/js/frontend.min.js?ver=3.2.15",
+          "https://mysterion.hr/wp-content/themes/cinderella/assets/js/bootstrap.min.js?ver=1.0",
+          "https://mysterion.hr/wp-content/themes/cinderella/assets/js/select2.min.js?ver=1.0",
+          "https://mysterion.hr/wp-content/themes/cinderella/assets/js/jquery.uniform.min.js?ver=1.0",
+          "https://mysterion.hr/wp-content/themes/cinderella/assets/js/custom.js?ver=1.0",
+          "https://mysterion.hr/wp-content/plugins/wp-gdpr-compliance/assets/js/front.min.js?ver=1613405082",
+          "https://mysterion.hr/wp-includes/js/wp-embed.min.js?ver=5.0.22",
+          "https://mysterion.hr/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=5.6",
+          "https://mysterion.hr/wp-content/plugins/js_composer/assets/lib/bower/skrollr/dist/skrollr.min.js?ver=5.6",
+          "https://mysterion.hr/wp-content/themes/cinderella/assets/js/slick.min.js?ver=1.0",
+          "https://mysterion.hr/wp-content/plugins/instagram-feed/js/sbi-scripts.min.js?ver=6.1",
+          "https://mysterion.hr/wp-content/plugins/mailchimp-for-wp/assets/js/forms.js?ver=4.8.12"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "JavaScript Library",
+        "proofs": [
+          "https://mysterion.hr/wp-includes/js/jquery/jquery.js?ver=1.12.4",
+          "https://mysterion.hr/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1",
+          "https://mysterion.hr/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.6.3.1",
+          "https://mysterion.hr/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.6.3.1",
+          "https://mysterion.hr/wp-content/themes/cinderella/assets/js/jquery.uniform.min.js?ver=1.0"
+        ]
+      },
+      {
+        "technology": "Google Tag Manager",
+        "category": "Analytics & Tracking",
+        "proofs": [
+          "https://www.googletagmanager.com/gtag/js?id=UA-78921934-1"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "CMS",
+        "proofs": [
+          "WordPress 5.0.22",
+          "Powered by WPBakery Page Builder - drag and drop page builder for WordPress.",
+          "Powered by Slider Revolution 5.4.6.3.1 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface."
+        ]
+      }
+    ]
+  },
+  {
     "domain": "https://howellmotors.com",
     "status": "error",
     "error": "connect ECONNREFUSED 64.70.56.99:443",
     "technologies": []
   },
   {
+    "domain": "https://lorenz-baumarkt.de",
+    "date": "2026-09-15T13:10:14.782Z",
+    "detectedTechnologies": [
+      {
+        "technology": "Apache",
+        "category": "Web Server",
+        "proofs": [
+          "Header 'server' has value: Apache"
+        ]
+      },
+      {
+        "technology": "PayPal SDK",
+        "category": "Payment Gateway",
+        "proofs": [
+          "https://www.paypal.com/sdk/js?client-id=AWIoKU6mQIg61FlsnYo0sq3dA4AaLov3llI1vMQmqNL9iexL7iwgTWfhU3IcuZ_qI0PsCokm3YidJ3Ly&currency=EUR&components=messages"
+        ]
+      }
+    ]
+  },
+  {
     "domain": "https://eclairage-solaire-occitanie.com",
     "status": "error",
     "error": "Request failed with status code 404",
+    "technologies": []
+  },
+  {
+    "domain": "https://cmc01village.com",
+    "status": "error",
+    "error": "getaddrinfo ENOTFOUND cmc01village.com",
     "technologies": []
   },
   {
@@ -1851,14 +4350,26 @@
     "technologies": []
   },
   {
+    "domain": "https://cmresolutions.com",
+    "status": "error",
+    "error": "Hostname/IP does not match certificate's altnames: Host: cmresolutions.com. is not in the cert's altnames: DNS:*.securedata.net, DNS:securedata.net",
+    "technologies": []
+  },
+  {
     "domain": "https://wglchurch.com",
     "status": "error",
     "error": "getaddrinfo ENOTFOUND wglchurch.com",
     "technologies": []
   },
   {
+    "domain": "https://nwmotorinn.com",
+    "status": "error",
+    "error": "getaddrinfo ENOTFOUND nwmotorinn.com",
+    "technologies": []
+  },
+  {
     "domain": "https://dorpsbelangen.nu",
-    "date": "2026-09-15T11:57:31.047Z",
+    "date": "2026-09-15T13:10:16.721Z",
     "detectedTechnologies": [
       {
         "technology": "Apache",
@@ -1921,8 +4432,14 @@
     ]
   },
   {
+    "domain": "https://littlerockafamily.de",
+    "status": "error",
+    "error": "getaddrinfo ENOTFOUND littlerockafamily.de",
+    "technologies": []
+  },
+  {
     "domain": "https://evelynanders.com",
-    "date": "2026-09-15T11:57:31.622Z",
+    "date": "2026-09-15T13:10:17.201Z",
     "detectedTechnologies": [
       {
         "technology": "Apache",
@@ -1941,19 +4458,71 @@
     ]
   },
   {
-    "domain": "https://sdmdjentertainment.com",
-    "date": "2026-09-15T11:57:32.067Z",
+    "domain": "https://domekvefaru.com",
+    "date": "2026-09-15T13:10:18.039Z",
     "detectedTechnologies": []
   },
   {
+    "domain": "https://sdmdjentertainment.com",
+    "date": "2026-09-15T13:10:18.282Z",
+    "detectedTechnologies": []
+  },
+  {
+    "domain": "https://ideenhunger.com",
+    "date": "2026-09-15T13:10:18.955Z",
+    "detectedTechnologies": [
+      {
+        "technology": "Cloudflare",
+        "category": "CDN & Security",
+        "proofs": [
+          "Header 'server' has value: cloudflare"
+        ]
+      },
+      {
+        "technology": "Google Tag Manager",
+        "category": "Analytics & Tracking",
+        "proofs": [
+          "https://www.googletagmanager.com/gtag/js?id=G-4691ECHTYM",
+          "https://www.googletagmanager.com/gtag/js?id=AW-970173388"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "JavaScript Library",
+        "proofs": [
+          "https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=66795ad5f3983f33c484692b"
+        ]
+      }
+    ]
+  },
+  {
     "domain": "https://jenniferbacksteininteriors.com",
-    "status": "error",
-    "error": "timeout of 8000ms exceeded",
-    "technologies": []
+    "date": "2026-09-15T13:10:24.681Z",
+    "detectedTechnologies": []
+  },
+  {
+    "domain": "https://elcolegiocongresosyrestaurante.com",
+    "date": "2026-09-15T13:10:25.891Z",
+    "detectedTechnologies": [
+      {
+        "technology": "Nginx",
+        "category": "Web Server",
+        "proofs": [
+          "Header 'server' has value: nginx"
+        ]
+      },
+      {
+        "technology": "FontAwesome",
+        "category": "Icon Font",
+        "proofs": [
+          "https://cloud.xm-cdn.com/assets/css/new_structure/libraries/fontAwesome.min.css?ver=017d81574cff50ac868272405aaa8ca4"
+        ]
+      }
+    ]
   },
   {
     "domain": "https://northshoremacnut.com",
-    "date": "2026-09-15T11:57:41.265Z",
+    "date": "2026-09-15T13:10:29.571Z",
     "detectedTechnologies": [
       {
         "technology": "Cloudflare",
@@ -1979,8 +4548,43 @@
     ]
   },
   {
+    "domain": "https://powercleaning.services",
+    "date": "2026-09-15T13:10:29.884Z",
+    "detectedTechnologies": [
+      {
+        "technology": "Nginx",
+        "category": "Web Server",
+        "proofs": [
+          "Header 'server' has value: nginx"
+        ]
+      },
+      {
+        "technology": "WordPress Resources",
+        "category": "CMS",
+        "proofs": [
+          "https://powercleaning.services/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "https://powercleaning.services/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-js-e2a389d2b681b8e4e18c36593bce4b0d.js"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "JavaScript Library",
+        "proofs": [
+          "https://powercleaning.services/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+        ]
+      },
+      {
+        "technology": "Google Tag Manager",
+        "category": "Analytics & Tracking",
+        "proofs": [
+          "https://www.googletagmanager.com/gtag/js?id=G-GRT6BXCZG5"
+        ]
+      }
+    ]
+  },
+  {
     "domain": "https://stoperbis.pl",
-    "date": "2026-09-15T11:57:42.285Z",
+    "date": "2026-09-15T13:10:30.308Z",
     "detectedTechnologies": [
       {
         "technology": "Apache",
@@ -2000,8 +4604,14 @@
     ]
   },
   {
+    "domain": "https://verticalcommunitychurch.com",
+    "status": "error",
+    "error": "getaddrinfo ENOTFOUND verticalcommunitychurch.com",
+    "technologies": []
+  },
+  {
     "domain": "https://gitesducharmois.fr",
-    "date": "2026-09-15T11:57:43.261Z",
+    "date": "2026-09-15T13:10:30.996Z",
     "detectedTechnologies": [
       {
         "technology": "Cloudflare",
@@ -2027,8 +4637,42 @@
     ]
   },
   {
+    "domain": "https://allegrocreditbeta.com",
+    "date": "2026-09-15T13:10:31.927Z",
+    "detectedTechnologies": [
+      {
+        "technology": "AWS CloudFront",
+        "category": "CDN & Security",
+        "proofs": [
+          "Header 'x-amz-cf-id' has value: 4gHcoaIb3hqtTy4Sk5HD36LFDCH6ONhK7Xn45kVpGYbIq1R6-VwzFw=="
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "JavaScript Library",
+        "proofs": [
+          "https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"
+        ]
+      },
+      {
+        "technology": "Bootstrap",
+        "category": "UI Framework",
+        "proofs": [
+          "//cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.8.0/css/bootstrap-datepicker3.min.css"
+        ]
+      },
+      {
+        "technology": "FontAwesome",
+        "category": "Icon Font",
+        "proofs": [
+          "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+        ]
+      }
+    ]
+  },
+  {
     "domain": "https://hoffmaninstitute.co.uk",
-    "date": "2026-09-15T11:57:44.610Z",
+    "date": "2026-09-15T13:10:33.620Z",
     "detectedTechnologies": [
       {
         "technology": "Cloudflare",
@@ -2135,10 +4779,90 @@
     ]
   },
   {
+    "domain": "https://a3sec.com",
+    "date": "2026-09-15T13:10:33.829Z",
+    "detectedTechnologies": [
+      {
+        "technology": "Cloudflare",
+        "category": "CDN & Security",
+        "proofs": [
+          "Header 'server' has value: cloudflare"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "JavaScript Library",
+        "proofs": [
+          "/hs/hsstatic/jquery-libs/static-1.4/jquery/jquery-1.11.2.js",
+          "/hs/hsstatic/jquery-libs/static-1.4/jquery-migrate/jquery-migrate-1.2.1.js"
+        ]
+      },
+      {
+        "technology": "Google Tag Manager",
+        "category": "Analytics & Tracking",
+        "proofs": [
+          "https://www.googletagmanager.com/gtag/js?id=G-BGGEQ32B1J"
+        ]
+      }
+    ]
+  },
+  {
     "domain": "https://concrete-fitness.edan.io",
     "status": "error",
     "error": "Request failed with status code 403",
     "technologies": []
+  },
+  {
+    "domain": "https://nicholsonchiro.com",
+    "date": "2026-09-15T13:10:35.322Z",
+    "detectedTechnologies": [
+      {
+        "technology": "Apache",
+        "category": "Web Server",
+        "proofs": [
+          "Header 'server' has value: Apache"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "JavaScript Library",
+        "proofs": [
+          "https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js?ver=1.12.4",
+          "https://nicholsonchiro.com/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=3.1.1"
+        ]
+      },
+      {
+        "technology": "WordPress Resources",
+        "category": "CMS",
+        "proofs": [
+          "https://nicholsonchiro.com/wp-content/themes/mts_schema/js/customscript.js?ver=83172ef623831a091b4d7ded2fd9b7ec",
+          "https://nicholsonchiro.com/wp-content/themes/mts_schema/content/js/ada.js?ver=83172ef623831a091b4d7ded2fd9b7ec",
+          "https://nicholsonchiro.com/wp-content/themes/arrow-schema-child/assets/wow.js?ver=83172ef623831a091b4d7ded2fd9b7ec",
+          "https://nicholsonchiro.com/wp-content/themes/arrow-schema-child/assets/slick.min.js?ver=83172ef623831a091b4d7ded2fd9b7ec",
+          "https://nicholsonchiro.com/wp-content/themes/arrow-schema-child/assets/parallax.min.js?ver=83172ef623831a091b4d7ded2fd9b7ec",
+          "https://nicholsonchiro.com/wp-content/themes/mts_schema/js/owl.carousel.min.js",
+          "https://nicholsonchiro.com/wp-content/plugins/gravityformsrecaptcha/js/frontend.min.js?ver=2.2.2",
+          "https://nicholsonchiro.com/wp-content/plugins/dmm-consent-guard/assets/js/banner.js?ver=0.2.6",
+          "https://nicholsonchiro.com/wp-includes/js/dist/dom-ready.min.js?ver=3fe927cab37bf38d6a23",
+          "https://nicholsonchiro.com/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255",
+          "https://nicholsonchiro.com/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216",
+          "https://nicholsonchiro.com/wp-includes/js/dist/a11y.min.js?ver=31c6cec5a4ff7aff483d",
+          "https://nicholsonchiro.com/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=3.1.1",
+          "https://nicholsonchiro.com/wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=3.1.1",
+          "https://nicholsonchiro.com/wp-content/plugins/gravityforms/assets/js/dist/utils.min.js?ver=69a9db57304a9f86c3d1a0bea5fd2cf9",
+          "https://nicholsonchiro.com/wp-content/plugins/gravityforms/assets/js/dist/vendor-theme.min.js?ver=0c901cb641ce64b99c20ea1a4d208cc9",
+          "https://nicholsonchiro.com/wp-content/plugins/gravityforms/assets/js/dist/scripts-theme.min.js?ver=e27d9712159624c99129c8c208f022ad",
+          "https://nicholsonchiro.com/wp-content/themes/mts_schema/js/slick.js?ver=83172ef623831a091b4d7ded2fd9b7ec"
+        ]
+      },
+      {
+        "technology": "Google Tag Manager",
+        "category": "Analytics & Tracking",
+        "proofs": [
+          "https://www.googletagmanager.com/gtag/js?id=G-CS7B4Q6T4L"
+        ]
+      }
+    ]
   },
   {
     "domain": "https://la-residenza-del-principe-rome-it.booked.net",
@@ -2147,10 +4871,43 @@
     "technologies": []
   },
   {
+    "domain": "https://jonesbuickgmc.com",
+    "date": "2026-09-15T13:10:36.304Z",
+    "detectedTechnologies": [
+      {
+        "technology": "Cloudflare",
+        "category": "CDN & Security",
+        "proofs": [
+          "Header 'server' has value: cloudflare"
+        ]
+      }
+    ]
+  },
+  {
     "domain": "https://xn--jobvrkstedet-9cb.nu",
     "status": "error",
     "error": "Request failed with status code 454",
     "technologies": []
+  },
+  {
+    "domain": "https://appelpsychotherapy.com",
+    "date": "2026-09-15T13:10:37.313Z",
+    "detectedTechnologies": [
+      {
+        "technology": "Lodash",
+        "category": "JavaScript Library",
+        "proofs": [
+          "https://static.parastorage.com/unpkg/lodash@4.17.23/lodash.min.js"
+        ]
+      },
+      {
+        "technology": "Wix",
+        "category": "Website Builder",
+        "proofs": [
+          "Wix.com Website Builder"
+        ]
+      }
+    ]
   },
   {
     "domain": "https://brucebournesold.com",
@@ -2159,8 +4916,35 @@
     "technologies": []
   },
   {
+    "domain": "https://pcb-cpb.com",
+    "date": "2026-09-15T13:10:38.603Z",
+    "detectedTechnologies": [
+      {
+        "technology": "Cloudflare",
+        "category": "CDN & Security",
+        "proofs": [
+          "Header 'server' has value: cloudflare"
+        ]
+      },
+      {
+        "technology": "Lodash",
+        "category": "JavaScript Library",
+        "proofs": [
+          "https://static.parastorage.com/unpkg/lodash@4.17.23/lodash.min.js"
+        ]
+      },
+      {
+        "technology": "Wix",
+        "category": "Website Builder",
+        "proofs": [
+          "Wix.com Website Builder"
+        ]
+      }
+    ]
+  },
+  {
     "domain": "https://chiantifiorentino.it",
-    "date": "2026-09-15T11:57:48.947Z",
+    "date": "2026-09-15T13:10:39.908Z",
     "detectedTechnologies": [
       {
         "technology": "ASP.NET",
@@ -2205,8 +4989,50 @@
     ]
   },
   {
+    "domain": "https://11thhourracing.org",
+    "date": "2026-09-15T13:10:40.724Z",
+    "detectedTechnologies": [
+      {
+        "technology": "Cloudflare",
+        "category": "CDN & Security",
+        "proofs": [
+          "Header 'server' has value: cloudflare"
+        ]
+      },
+      {
+        "technology": "WordPress Resources",
+        "category": "CMS",
+        "proofs": [
+          "https://11thhourracing.org/wp/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "https://11thhourracing.org/wp/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+          "https://11thhourracing.org/wp/wp-includes/js/jquery/ui/core.min.js?ver=1.14.2",
+          "https://11thhourracing.org/wp/wp-includes/js/jquery/ui/mouse.min.js?ver=1.14.2",
+          "https://11thhourracing.org/wp/wp-includes/js/jquery/ui/sortable.min.js?ver=1.14.2",
+          "https://11thhourracing.org/wp/wp-includes/js/jquery/ui/resizable.min.js?ver=1.14.2",
+          "https://11thhourracing.org/wp/wp-includes/js/dist/dom-ready.min.js?ver=3fe927cab37bf38d6a23",
+          "https://11thhourracing.org/wp/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255",
+          "https://11thhourracing.org/wp/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216",
+          "https://11thhourracing.org/wp/wp-includes/js/dist/a11y.min.js?ver=31c6cec5a4ff7aff483d"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "JavaScript Library",
+        "proofs": [
+          "https://11thhourracing.org/wp/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "https://11thhourracing.org/wp/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+          "https://11thhourracing.org/wp/wp-includes/js/jquery/ui/core.min.js?ver=1.14.2",
+          "https://11thhourracing.org/wp/wp-includes/js/jquery/ui/mouse.min.js?ver=1.14.2",
+          "https://11thhourracing.org/wp/wp-includes/js/jquery/ui/sortable.min.js?ver=1.14.2",
+          "https://11thhourracing.org/wp/wp-includes/js/jquery/ui/resizable.min.js?ver=1.14.2",
+          "https://11thhourracing.org/app/plugins/formidable-pro/js/frm.min.js?ver=6.34-jquery"
+        ]
+      }
+    ]
+  },
+  {
     "domain": "https://miratrade.com.tr",
-    "date": "2026-09-15T11:57:49.354Z",
+    "date": "2026-09-15T13:10:40.895Z",
     "detectedTechnologies": [
       {
         "technology": "Cloudflare",
@@ -2218,8 +5044,21 @@
     ]
   },
   {
+    "domain": "https://freo.com.au",
+    "date": "2026-09-15T13:10:41.882Z",
+    "detectedTechnologies": [
+      {
+        "technology": "jQuery",
+        "category": "JavaScript Library",
+        "proofs": [
+          "js/jquery.js"
+        ]
+      }
+    ]
+  },
+  {
     "domain": "https://fluxar.com.ar",
-    "date": "2026-09-15T11:57:53.945Z",
+    "date": "2026-09-15T13:10:46.589Z",
     "detectedTechnologies": [
       {
         "technology": "PHP",
@@ -2240,7 +5079,7 @@
         "technology": "WordPress Resources",
         "category": "CMS",
         "proofs": [
-          "https://www.fluxar.com.ar/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.js?ver=1789473476",
+          "https://www.fluxar.com.ar/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.js?ver=1789477849",
           "https://www.fluxar.com.ar/wp-includes/js/tinymce/tinymce.min.js?ver=49110-20250317",
           "https://www.fluxar.com.ar/wp-includes/js/tinymce/plugins/compat3x/plugin.min.js?ver=49110-20250317",
           "https://www.fluxar.com.ar/wp-includes/js/jquery/jquery.js?ver=3.7.1",
@@ -2316,8 +5155,14 @@
     ]
   },
   {
+    "domain": "https://redpants.jp",
+    "status": "error",
+    "error": "timeout of 8000ms exceeded",
+    "technologies": []
+  },
+  {
     "domain": "https://bata.edu.hu",
-    "date": "2026-09-15T11:57:55.037Z",
+    "date": "2026-09-15T13:10:55.503Z",
     "detectedTechnologies": [
       {
         "technology": "Apache",
@@ -2356,8 +5201,21 @@
     ]
   },
   {
+    "domain": "https://3-energie-klaas.de",
+    "date": "2026-09-15T13:10:55.986Z",
+    "detectedTechnologies": [
+      {
+        "technology": "Cloudflare",
+        "category": "CDN & Security",
+        "proofs": [
+          "Header 'server' has value: cloudflare"
+        ]
+      }
+    ]
+  },
+  {
     "domain": "https://labdemo.com",
-    "date": "2026-09-15T11:57:55.689Z",
+    "date": "2026-09-15T13:10:56.801Z",
     "detectedTechnologies": [
       {
         "technology": "Nginx",
@@ -2385,10 +5243,29 @@
     ]
   },
   {
+    "domain": "https://1ststopsupply.com",
+    "status": "error",
+    "error": "write EPROTO 28330000:error:0A000410:SSL routines:ssl3_read_bytes:sslv3 alert handshake failure:c:\\ws\\deps\\openssl\\openssl\\ssl\\record\\rec_layer_s3.c:1590:SSL alert number 40\n",
+    "technologies": []
+  },
+  {
     "domain": "https://celiabedilia.com",
     "status": "error",
     "error": "connect ECONNREFUSED 154.196.125.16:443",
     "technologies": []
+  },
+  {
+    "domain": "https://davidloeppke.com",
+    "date": "2026-09-15T13:11:01.089Z",
+    "detectedTechnologies": [
+      {
+        "technology": "Google Tag Manager",
+        "category": "Analytics & Tracking",
+        "proofs": [
+          "https://www.googletagmanager.com/gtag/js?id=UA-43807950-1"
+        ]
+      }
+    ]
   },
   {
     "domain": "https://wrinkle-pei.cz",
@@ -2397,10 +5274,103 @@
     "technologies": []
   },
   {
+    "domain": "https://koniczynka.info.pl",
+    "date": "2026-09-15T13:11:02.023Z",
+    "detectedTechnologies": [
+      {
+        "technology": "Apache",
+        "category": "Web Server",
+        "proofs": [
+          "Header 'server' has value: Apache/2"
+        ]
+      },
+      {
+        "technology": "WordPress Resources",
+        "category": "CMS",
+        "proofs": [
+          "https://www.koniczynka.info.pl/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "https://www.koniczynka.info.pl/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+          "https://www.koniczynka.info.pl/wp-content/plugins/webtoffee-gdpr-cookie-consent/public/js/cookie-law-info-public.js?ver=2.6.3",
+          "https://www.koniczynka.info.pl/wp-content/plugins/webtoffee-gdpr-cookie-consent/admin/modules/ccpa/assets/js/cookie-law-info-ccpa.js?ver=2.6.3",
+          "https://www.koniczynka.info.pl/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.9.7.3",
+          "https://www.koniczynka.info.pl/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=9.7.3",
+          "https://www.koniczynka.info.pl/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.9.7.3",
+          "https://www.koniczynka.info.pl/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=9.7.3",
+          "https://www.koniczynka.info.pl/wp-content/plugins/woocommerce/assets/js/flexslider/jquery.flexslider.min.js?ver=2.7.2-wc.9.7.3",
+          "https://www.koniczynka.info.pl/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe.min.js?ver=4.1.1-wc.9.7.3",
+          "https://www.koniczynka.info.pl/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe-ui-default.min.js?ver=4.1.1-wc.9.7.3",
+          "https://www.koniczynka.info.pl/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=9.7.3",
+          "https://www.koniczynka.info.pl/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=9.7.3",
+          "https://www.koniczynka.info.pl/wp-content/plugins/woocommerce/assets/js/frontend/country-select.min.js?ver=9.7.3",
+          "https://www.koniczynka.info.pl/wp-content/plugins/woocommerce/assets/js/frontend/address-i18n.min.js?ver=9.7.3",
+          "https://www.koniczynka.info.pl/wp-content/plugins/woocommerce/assets/js/frontend/checkout.min.js?ver=9.7.3",
+          "https://www.koniczynka.info.pl/wp-content/plugins/woocommerce/assets/js/select2/select2.full.min.js?ver=4.0.3-wc.9.7.3",
+          "https://www.koniczynka.info.pl/wp-content/plugins/woocommerce/assets/js/selectWoo/selectWoo.full.min.js?ver=1.0.9-wc.9.7.3",
+          "https://www.koniczynka.info.pl/wp-content/plugins/dg-divi-carousel/scripts/swiper.min.js?ver=3.0.0",
+          "https://www.koniczynka.info.pl/wp-content/plugins/advanced-woo-search/assets/js/common.min.js?ver=3.28",
+          "https://www.koniczynka.info.pl/wp-content/themes/Divi/js/scripts.min.js?ver=4.21.1",
+          "https://www.koniczynka.info.pl/wp-content/plugins/dg-divi-carousel/scripts/frontend-bundle.min.js?ver=3.0.0",
+          "https://www.koniczynka.info.pl/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js?ver=9.7.3",
+          "https://www.koniczynka.info.pl/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js?ver=9.7.3",
+          "https://www.koniczynka.info.pl/wp-content/themes/Divi/core/admin/js/common.js?ver=4.21.0",
+          "https://www.koniczynka.info.pl/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.17",
+          "https://www.koniczynka.info.pl/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=ec6268ba5bf1a75c845de56286f585cb",
+          "https://www.koniczynka.info.pl/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=ec6268ba5bf1a75c845de56286f585cb",
+          "https://www.koniczynka.info.pl/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/jquery.fitvids.js?ver=4.21.0",
+          "https://www.koniczynka.info.pl/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/jquery.mobile.js?ver=4.21.0",
+          "https://www.koniczynka.info.pl/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/magnific-popup.js?ver=4.21.0",
+          "https://www.koniczynka.info.pl/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/easypiechart.js?ver=4.21.0",
+          "https://www.koniczynka.info.pl/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/salvattore.js?ver=4.21.1"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "JavaScript Library",
+        "proofs": [
+          "https://www.koniczynka.info.pl/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "https://www.koniczynka.info.pl/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+          "https://www.koniczynka.info.pl/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.9.7.3",
+          "https://www.koniczynka.info.pl/wp-content/plugins/woocommerce/assets/js/flexslider/jquery.flexslider.min.js?ver=2.7.2-wc.9.7.3",
+          "https://www.koniczynka.info.pl/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/jquery.fitvids.js?ver=4.21.0",
+          "https://www.koniczynka.info.pl/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/jquery.mobile.js?ver=4.21.0"
+        ]
+      }
+    ]
+  },
+  {
     "domain": "https://footasylum.com",
     "status": "error",
     "error": "timeout of 8000ms exceeded",
     "technologies": []
+  },
+  {
+    "domain": "https://2agateway.com",
+    "date": "2026-09-15T13:11:10.339Z",
+    "detectedTechnologies": [
+      {
+        "technology": "Cloudflare",
+        "category": "CDN & Security",
+        "proofs": [
+          "Header 'server' has value: cloudflare"
+        ]
+      },
+      {
+        "technology": "WordPress Resources",
+        "category": "CMS",
+        "proofs": [
+          "https://2agateway.com/wp-content/themes/bricks/assets/js/bricks.min.js?ver=1710440575",
+          "https://2agateway.com/wp-content/plugins/max-addons-pro-bricks/assets/js/frontend.min.js?ver=1.6.2",
+          "https://2agateway.com/wp-content/plugins/bricksextras/components/assets/js/parallax.js?ver=1.0.0"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "CMS",
+        "proofs": [
+          "WordPress 7.1"
+        ]
+      }
+    ]
   },
   {
     "domain": "https://ledestjernenstu.dk",
@@ -2409,8 +5379,14 @@
     "technologies": []
   },
   {
+    "domain": "https://1stlocksheathscouts.org.uk",
+    "status": "error",
+    "error": "Request failed with status code 403",
+    "technologies": []
+  },
+  {
     "domain": "https://tamcconstruction.net",
-    "date": "2026-09-15T11:58:09.997Z",
+    "date": "2026-09-15T13:11:11.458Z",
     "detectedTechnologies": [
       {
         "technology": "Nginx",
@@ -2454,8 +5430,21 @@
     ]
   },
   {
+    "domain": "https://abbikadabbisbakingco.com",
+    "date": "2026-09-15T13:11:12.300Z",
+    "detectedTechnologies": [
+      {
+        "technology": "Cloudflare",
+        "category": "CDN & Security",
+        "proofs": [
+          "Header 'server' has value: cloudflare"
+        ]
+      }
+    ]
+  },
+  {
     "domain": "https://herbalwise.ie",
-    "date": "2026-09-15T11:58:10.647Z",
+    "date": "2026-09-15T13:11:12.833Z",
     "detectedTechnologies": [
       {
         "technology": "Cloudflare",
@@ -2484,10 +5473,97 @@
     ]
   },
   {
+    "domain": "https://deepseass.com",
+    "date": "2026-09-15T13:11:14.202Z",
+    "detectedTechnologies": [
+      {
+        "technology": "Apache",
+        "category": "Web Server",
+        "proofs": [
+          "Header 'server' has value: Apache"
+        ]
+      },
+      {
+        "technology": "PHP",
+        "category": "Programming Language",
+        "proofs": [
+          "Header 'x-powered-by' has value: PHP/8.2"
+        ]
+      },
+      {
+        "technology": "WordPress Resources",
+        "category": "CMS",
+        "proofs": [
+          "https://www.deepseass.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "https://www.deepseass.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+          "https://www.deepseass.com/wp-content/plugins/so-widgets-bundle/js/jquery.cycle.min.js?ver=1.74.2",
+          "https://www.deepseass.com/wp-content/plugins/so-widgets-bundle/js/slider/jquery.slider.min.js?ver=1.74.2",
+          "https://www.deepseass.com/wp-content/plugins/so-widgets-bundle/widgets/contact/js/contact.min.js?ver=1.74.2",
+          "https://www.deepseass.com/wp-content/themes/twentyseventeen/assets/js/global.js?ver=20211130",
+          "https://www.deepseass.com/wp-content/themes/twentyseventeen/assets/js/navigation.js?ver=20210122",
+          "https://www.deepseass.com/wp-content/plugins/so-widgets-bundle/js/sow.google-map.min.js?ver=1.74.2",
+          "https://www.deepseass.com/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255",
+          "https://www.deepseass.com/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216",
+          "https://www.deepseass.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.7",
+          "https://www.deepseass.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.7",
+          "https://www.deepseass.com/wp-content/themes/twentyseventeen/assets/js/jquery.scrollTo.js?ver=2.1.3",
+          "https://www.deepseass.com/wp-content/plugins/siteorigin-panels/js/styling.min.js?ver=2.36.0",
+          "https://www.deepseass.com/wp-content/plugins/so-widgets-bundle/js/jquery.cycle.swipe.min.js?ver=1.74.2"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "JavaScript Library",
+        "proofs": [
+          "https://www.deepseass.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "https://www.deepseass.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+          "https://www.deepseass.com/wp-content/plugins/so-widgets-bundle/js/jquery.cycle.min.js?ver=1.74.2",
+          "https://www.deepseass.com/wp-content/plugins/so-widgets-bundle/js/slider/jquery.slider.min.js?ver=1.74.2",
+          "https://www.deepseass.com/wp-content/themes/twentyseventeen/assets/js/jquery.scrollTo.js?ver=2.1.3",
+          "https://www.deepseass.com/wp-content/plugins/so-widgets-bundle/js/jquery.cycle.swipe.min.js?ver=1.74.2"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "CMS",
+        "proofs": [
+          "WordPress 7.1"
+        ]
+      },
+      {
+        "technology": "FontAwesome",
+        "category": "Icon Font",
+        "proofs": [
+          "https://www.deepseass.com/wp-content/plugins/so-widgets-bundle/icons/fontawesome/style.css?ver=1784948011&ver=7.1"
+        ]
+      }
+    ]
+  },
+  {
     "domain": "https://aardvarkelectriccorp.com",
     "status": "error",
-    "error": "write EPROTO E43B0000:error:0A000410:SSL routines:ssl3_read_bytes:sslv3 alert handshake failure:c:\\ws\\deps\\openssl\\openssl\\ssl\\record\\rec_layer_s3.c:1590:SSL alert number 40\n",
+    "error": "write EPROTO 28330000:error:0A000410:SSL routines:ssl3_read_bytes:sslv3 alert handshake failure:c:\\ws\\deps\\openssl\\openssl\\ssl\\record\\rec_layer_s3.c:1590:SSL alert number 40\n",
     "technologies": []
+  },
+  {
+    "domain": "https://needaphysio.com",
+    "date": "2026-09-15T13:11:15.119Z",
+    "detectedTechnologies": [
+      {
+        "technology": "Lodash",
+        "category": "JavaScript Library",
+        "proofs": [
+          "https://static.parastorage.com/unpkg/lodash@4.17.23/lodash.min.js"
+        ]
+      },
+      {
+        "technology": "Wix",
+        "category": "Website Builder",
+        "proofs": [
+          "Wix.com Website Builder"
+        ]
+      }
+    ]
   },
   {
     "domain": "https://thomasrosenbaum.com",
@@ -2496,14 +5572,33 @@
     "technologies": []
   },
   {
+    "domain": "https://100wwcstlw.org",
+    "date": "2026-09-15T13:11:23.327Z",
+    "detectedTechnologies": [
+      {
+        "technology": "Cloudflare",
+        "category": "CDN & Security",
+        "proofs": [
+          "Header 'server' has value: cloudflare"
+        ]
+      }
+    ]
+  },
+  {
     "domain": "https://shapirolawfirm.com",
     "status": "error",
     "error": "certificate has expired",
     "technologies": []
   },
   {
+    "domain": "https://joseph-herber.business.site",
+    "status": "error",
+    "error": "Request failed with status code 404",
+    "technologies": []
+  },
+  {
     "domain": "https://arol.cl",
-    "date": "2026-09-15T11:58:21.092Z",
+    "date": "2026-09-15T13:11:26.092Z",
     "detectedTechnologies": [
       {
         "technology": "Apache",
@@ -2515,14 +5610,56 @@
     ]
   },
   {
-    "domain": "https://1stclairavewest.com",
+    "domain": "https://sindacatobadanti.it",
     "status": "error",
-    "error": "write EPROTO E43B0000:error:0A000410:SSL routines:ssl3_read_bytes:sslv3 alert handshake failure:c:\\ws\\deps\\openssl\\openssl\\ssl\\record\\rec_layer_s3.c:1590:SSL alert number 40\n",
+    "error": "Request failed with status code 503",
     "technologies": []
   },
   {
+    "domain": "https://1stclairavewest.com",
+    "status": "error",
+    "error": "write EPROTO 28330000:error:0A000410:SSL routines:ssl3_read_bytes:sslv3 alert handshake failure:c:\\ws\\deps\\openssl\\openssl\\ssl\\record\\rec_layer_s3.c:1590:SSL alert number 40\n",
+    "technologies": []
+  },
+  {
+    "domain": "https://lighthouseprc.org",
+    "date": "2026-09-15T13:11:30.639Z",
+    "detectedTechnologies": [
+      {
+        "technology": "Apache",
+        "category": "Web Server",
+        "proofs": [
+          "Header 'server' has value: Apache"
+        ]
+      },
+      {
+        "technology": "WordPress Resources",
+        "category": "CMS",
+        "proofs": [
+          "https://lighthouseprc.org/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "CMS",
+        "proofs": [
+          "WordPress 7.0.4",
+          "Powered by WPBakery Page Builder - drag and drop page builder for WordPress.",
+          "Powered by Slider Revolution 6.5.9 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface."
+        ]
+      },
+      {
+        "technology": "FontAwesome",
+        "category": "Icon Font",
+        "proofs": [
+          "https://lighthouseprc.org/wp-content/themes/bridge/css/font-awesome/css/font-awesome.min.css?ver=7.0.4"
+        ]
+      }
+    ]
+  },
+  {
     "domain": "https://5rcircleprocess.weebly.com",
-    "date": "2026-09-15T11:58:22.030Z",
+    "date": "2026-09-15T13:11:31.220Z",
     "detectedTechnologies": [
       {
         "technology": "Cloudflare",
@@ -2541,14 +5678,163 @@
     ]
   },
   {
+    "domain": "https://unitedveterinaryservice.com",
+    "date": "2026-09-15T13:11:32.506Z",
+    "detectedTechnologies": [
+      {
+        "technology": "PHP",
+        "category": "Programming Language",
+        "proofs": [
+          "Header 'x-powered-by' has value: PHP/8.0.30"
+        ]
+      },
+      {
+        "technology": "WordPress Resources",
+        "category": "CMS",
+        "proofs": [
+          "https://unitedveterinaryservice.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "https://unitedveterinaryservice.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+          "https://unitedveterinaryservice.com/wp-content/plugins/bt_cost_calculator/jquery.dd.js?ver=7.1",
+          "https://unitedveterinaryservice.com/wp-content/plugins/bt_cost_calculator/cc.main.js?ver=7.1",
+          "https://unitedveterinaryservice.com/wp-content/plugins/medicare/bt_elements.js?ver=7.1",
+          "https://unitedveterinaryservice.com/wp-content/themes/medicare/js/slick.min.js?ver=7.1",
+          "https://unitedveterinaryservice.com/wp-content/themes/medicare/js/jquery.magnific-popup.min.js?ver=7.1",
+          "https://unitedveterinaryservice.com/wp-content/themes/medicare/js/iscroll.js?ver=7.1",
+          "https://unitedveterinaryservice.com/wp-content/themes/medicare/js/fancySelect.js?ver=7.1",
+          "https://unitedveterinaryservice.com/wp-content/themes/medicare/js/html5shiv.min.js?ver=7.1",
+          "https://unitedveterinaryservice.com/wp-content/themes/medicare/js/respond.min.js?ver=7.1",
+          "https://unitedveterinaryservice.com/wp-content/themes/medicare/js/misc.js?ver=7.1",
+          "https://unitedveterinaryservice.com/wp-content/themes/medicare/js/header.misc.js?ver=7.1",
+          "https://unitedveterinaryservice.com/wp-content/themes/medicare/js/dir.hover.js?ver=7.1",
+          "https://unitedveterinaryservice.com/wp-content/themes/medicare/js/sliders.js?ver=7.1",
+          "https://unitedveterinaryservice.com/wp-includes/js/comment-reply.min.js?ver=7.1",
+          "https://unitedveterinaryservice.com/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255",
+          "https://unitedveterinaryservice.com/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216",
+          "https://unitedveterinaryservice.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.7",
+          "https://unitedveterinaryservice.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.7",
+          "https://unitedveterinaryservice.com/wp-includes/js/jquery/ui/core.min.js?ver=1.14.2",
+          "https://unitedveterinaryservice.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.14.2",
+          "https://unitedveterinaryservice.com/wp-content/plugins/contact-form-7/includes/js/html5-fallback.js?ver=6.1.7",
+          "https://unitedveterinaryservice.com/wp-content/plugins/medicare/bt_parallax.js?ver=7.1"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "JavaScript Library",
+        "proofs": [
+          "https://unitedveterinaryservice.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "https://unitedveterinaryservice.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+          "https://unitedveterinaryservice.com/wp-content/plugins/bt_cost_calculator/jquery.dd.js?ver=7.1",
+          "https://unitedveterinaryservice.com/wp-content/themes/medicare/js/jquery.magnific-popup.min.js?ver=7.1",
+          "https://unitedveterinaryservice.com/wp-includes/js/jquery/ui/core.min.js?ver=1.14.2",
+          "https://unitedveterinaryservice.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.14.2"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "CMS",
+        "proofs": [
+          "WordPress 7.1"
+        ]
+      }
+    ]
+  },
+  {
     "domain": "https://construccionesyatecnicas.com",
     "status": "error",
     "error": "certificate has expired",
     "technologies": []
   },
   {
+    "domain": "https://joburgheritage.org.za",
+    "date": "2026-09-15T13:11:34.631Z",
+    "detectedTechnologies": [
+      {
+        "technology": "Apache",
+        "category": "Web Server",
+        "proofs": [
+          "Header 'server' has value: Apache"
+        ]
+      },
+      {
+        "technology": "WordPress Resources",
+        "category": "CMS",
+        "proofs": [
+          "https://joburgheritage.org.za/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "https://joburgheritage.org.za/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+          "https://joburgheritage.org.za/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.11.1.0",
+          "https://joburgheritage.org.za/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=11.1.0",
+          "https://joburgheritage.org.za/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.11.1.0",
+          "https://joburgheritage.org.za/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=11.1.0",
+          "https://joburgheritage.org.za/wp-includes/js/underscore.min.js?ver=1.13.8",
+          "https://joburgheritage.org.za/wp-includes/js/wp-util.min.js?ver=7.1",
+          "https://joburgheritage.org.za/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe.min.js?ver=4.1.1-wc.11.1.0",
+          "https://joburgheritage.org.za/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=4.2.4",
+          "https://joburgheritage.org.za/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=4.13.11",
+          "https://joburgheritage.org.za/wp-content/plugins/woolentor-addons/woolentor-blocks/assets/js/script.js?ver=3.5.1",
+          "https://joburgheritage.org.za/wp-content/plugins/woolentor-addons/assets/js/slick.min.js?ver=3.5.1",
+          "https://joburgheritage.org.za/wp-content/plugins/woolentor-addons/assets/js/accordion.min.js?ver=3.5.1",
+          "https://joburgheritage.org.za/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=11.1.0",
+          "https://joburgheritage.org.za/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=11.1.0",
+          "https://joburgheritage.org.za/wp-content/plugins/woocommerce/assets/js/zoom/jquery.zoom.min.js?ver=1.7.21-wc.11.1.0",
+          "https://joburgheritage.org.za/wp-content/plugins/woocommerce/assets/js/flexslider/jquery.flexslider.min.js?ver=2.7.2-wc.11.1.0",
+          "https://joburgheritage.org.za/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe-ui-default.min.js?ver=4.1.1-wc.11.1.0",
+          "https://joburgheritage.org.za/wp-content/plugins/woolentor-addons/includes/modules/quickview/assets/js/frontend.js?ver=3.5.1",
+          "https://joburgheritage.org.za/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js?ver=11.1.0",
+          "https://joburgheritage.org.za/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js?ver=11.1.0",
+          "https://joburgheritage.org.za/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.2.4",
+          "https://joburgheritage.org.za/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.2.4",
+          "https://joburgheritage.org.za/wp-includes/js/jquery/ui/core.min.js?ver=1.14.2",
+          "https://joburgheritage.org.za/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.2.4"
+        ]
+      },
+      {
+        "technology": "jQuery",
+        "category": "JavaScript Library",
+        "proofs": [
+          "https://joburgheritage.org.za/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "https://joburgheritage.org.za/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+          "https://joburgheritage.org.za/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.11.1.0",
+          "https://joburgheritage.org.za/wp-content/plugins/woocommerce/assets/js/zoom/jquery.zoom.min.js?ver=1.7.21-wc.11.1.0",
+          "https://joburgheritage.org.za/wp-content/plugins/woocommerce/assets/js/flexslider/jquery.flexslider.min.js?ver=2.7.2-wc.11.1.0",
+          "https://joburgheritage.org.za/wp-includes/js/jquery/ui/core.min.js?ver=1.14.2"
+        ]
+      },
+      {
+        "technology": "Google Tag Manager",
+        "category": "Analytics & Tracking",
+        "proofs": [
+          "https://www.googletagmanager.com/gtag/js?id=GT-TNG7DSPN"
+        ]
+      },
+      {
+        "technology": "WordPress",
+        "category": "CMS",
+        "proofs": [
+          "WordPress 7.1"
+        ]
+      },
+      {
+        "technology": "WooCommerce",
+        "category": "Ecommerce Platform",
+        "proofs": [
+          "WooCommerce 11.1.0"
+        ]
+      },
+      {
+        "technology": "FontAwesome",
+        "category": "Icon Font",
+        "proofs": [
+          "https://joburgheritage.org.za/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0",
+          "https://joburgheritage.org.za/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=4.2.4",
+          "https://joburgheritage.org.za/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=4.2.4"
+        ]
+      }
+    ]
+  },
+  {
     "domain": "https://bfnelson.it",
-    "date": "2026-09-15T11:58:24.048Z",
+    "date": "2026-09-15T13:11:38.586Z",
     "detectedTechnologies": [
       {
         "technology": "PHP",
@@ -2579,6 +5865,19 @@
         "category": "CMS",
         "proofs": [
           "WordPress 7.1"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "https://rivithead.com",
+    "date": "2026-09-15T13:11:40.218Z",
+    "detectedTechnologies": [
+      {
+        "technology": "Apache",
+        "category": "Web Server",
+        "proofs": [
+          "Header 'server' has value: Apache"
         ]
       }
     ]
