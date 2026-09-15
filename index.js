@@ -153,7 +153,6 @@ const readParquet = async (filePath) => {
         const url = domain.startsWith('http') ? domain : `https://${domain}`
         const result = await getTechnologies(url)
         allResults.push(result)
-        record = await cursor.next()
     }
     await reader.close()
     fs.writeFileSync('results.json', JSON.stringify(allResults, null, 2), 'utf-8')
