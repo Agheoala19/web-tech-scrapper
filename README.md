@@ -6,6 +6,8 @@ The detection logic is based on a set of predefined rules. The application check
 
 I also implemented a mechanism to prevent duplicate results. If the same technology is detected from multiple sources, it is stored only once while keeping all the evidence that led to the detection.
 
-To make the tool more reliable, each request has a timeout. This prevents the application from getting stuck on slow or unresponsive websites and allows it to continue processing the remaining domains.
+To make the tool more reliable, each request has a timeout. This prevents the application from getting stuck on slow or unresponsive websites and allows it to continue processing the remaining domains. Also, I provided a Chrome User-Agent header so that on every request the server treats my engine like a real web browser (Chrome), not just a basic bot or script.
+
+In addition, reliability comes from the fact that instead of making multiple if checks, I decided to make one check for each field and created an array for each type of rule that contains the available technologies with their possible proof. Then, I just compare the current tag/script/link with each object from the array.
 
 The list of domains is loaded from an Apache Parquet file using `parquetjs-lite`. Instead of loading the entire file into memory at once, the data is read row by row. This makes the application more memory-efficient and allows it to handle large datasets without using excessive RAM.
