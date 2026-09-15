@@ -177,4 +177,3 @@ const readParquet = async (filePath) => {
 
 readParquet("part-00000-66e0628d-2c7f-425a-8f5b-738bcd6bf198-c000.snappy.parquet")
     .catch(err => console.error("Pipeline failure:", err))
-console.log('File has been written')
