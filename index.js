@@ -148,15 +148,33 @@ const readParquet = async (filePath) => {
     const cursor = reader.getCursor()
     let record = null
     const allResults = []
+    let count = 0
+
     while ((record = await cursor.next())) {
+        count++
         const domain = record.root_domain
         const url = domain.startsWith('http') ? domain : `https://${domain}`
-        const result = await getTechnologies(url)
-        allResults.push(result)
+
+        console.log(`[${count}/200] Scanning...`)
+
+        try {
+            const result = await getTechnologies(url)
+            allResults.push(result)
+        } catch (scanErr) {
+            allResults.push({
+                domain: url,
+                status: 'error',
+                error: scanErr.message,
+                detectedTechnologies: []
+            })
+        }
     }
+
     await reader.close()
     fs.writeFileSync('results.json', JSON.stringify(allResults, null, 2), 'utf-8')
-}
+    console.log(`Finished scanning! Successfully saved ${allResults.length} domains to results.json.`)
+};
 
 readParquet("part-00000-66e0628d-2c7f-425a-8f5b-738bcd6bf198-c000.snappy.parquet")
+    .catch(err => console.error("Pipeline failure:", err))
 console.log('File has been written')
